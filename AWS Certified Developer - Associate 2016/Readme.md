@@ -14,7 +14,7 @@ Section: 2 - AWS - 10,000 Feet Overview
 - ~~Lecture 9: 10,000 Foot Overview - 2 of 3~~
 - ~~Lecture 10: 10,000 Foot Overview - 3 of 3~~
 - ~~Lecture 11: Mind Overload? Don't Stress!~~
-- Quiz 1: 10,000 Feet Overview Review
+- ~~Quiz 1: 10,000 Feet Overview Review~~
 
 Section: 3 - Identity Access Management (IAM)
 - Lecture 12: IAM 101
