@@ -8,7 +8,7 @@
 - ~~Lecture 5: The Optional iPhone/Android App~~
 - ~~Lecture 6: Getting Started - What you'll need.~~
 
-Section: 2 - AWS - 10,000 Feet Overview
+~~Section: 2 - AWS - 10,000 Feet Overview~~
 - ~~Lecture 7: The History So Far~~
 - ~~Lecture 8: 10,000 Foot Overview - 1 of 3~~
 - ~~Lecture 9: 10,000 Foot Overview - 2 of 3~~
