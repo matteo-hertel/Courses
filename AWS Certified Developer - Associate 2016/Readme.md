@@ -17,8 +17,8 @@
 - ~~Quiz 1: 10,000 Feet Overview Review~~
 
 Section: 3 - Identity Access Management (IAM)
-- Lecture 12: IAM 101
-- Lecture 13: IAM - Lab
+- ~~Lecture 12: IAM 101~~
+- ~~Lecture 13: IAM - Lab~~
 - Lecture 14: Active Directory Federation
 - Lecture 15: Web Identity Federation
 - Lecture 16: IAM - Summary
