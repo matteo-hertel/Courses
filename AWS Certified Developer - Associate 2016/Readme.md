@@ -16,13 +16,13 @@
 - ~~Lecture 11: Mind Overload? Don't Stress!~~
 - ~~Quiz 1: 10,000 Feet Overview Review~~
 
-Section: 3 - Identity Access Management (IAM)
+~~Section: 3 - Identity Access Management (IAM)~~
 - ~~Lecture 12: IAM 101~~
 - ~~Lecture 13: IAM - Lab~~
-- Lecture 14: Active Directory Federation
-- Lecture 15: Web Identity Federation
-- Lecture 16: IAM - Summary
-- Quiz 2: Identity Access Management Quiz
+- ~~Lecture 14: Active Directory Federation~~
+- ~~Lecture 15: Web Identity Federation~~
+- ~~Lecture 16: IAM - Summary~~
+- ~~Quiz 2: Identity Access Management Quiz~~
 
 Section: 4 - EC2 & Getting Setup
 - Lecture 17: Create an EC2 Instance
