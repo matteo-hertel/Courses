@@ -1,9 +1,10 @@
 # Courses
 All the material from different courses will go in this repository
 
-##Courses##
-###SaaS###
+## Courses ##
+### SaaS ###
  - AWS Certified Developer - Associate 2016
- 
-###JS###
+
+### JS ###
 - [Web Crawling with Node, PhantomJS and Horseman](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/)
+- [Node Hapi.js up and Running](https://egghead.io/lessons/node-js-hapi-js-up-and-running?series=introduction-to-node-servers-with-hapi-js)
