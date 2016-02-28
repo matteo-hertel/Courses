@@ -32,7 +32,7 @@ server.register({
     register: require("good"),
     options: goodOptions
 }, err => {
-    //returna  string
+    //return a string
     server.route({
         method: "GET",
         path: "/",
@@ -49,7 +49,7 @@ server.register({
             reply(`Hello, ${request.params.name}`);
         }
     });
-    //using Bomm object
+    //using Boom object
     server.route({
         method: "GET",
         path: "/404",
@@ -57,12 +57,24 @@ server.register({
             reply(Boom.notFound());
         }
     });
-    //and error will return a 500
+    //an error will return a 500
     server.route({
         method: "GET",
         path: "/500",
         handler: (request, reply) => {
             reply(new Error("Nope!"));
+        }
+    });
+    //using response object
+    server.route({
+        method: "GET",
+        path: "/tea",
+        handler: (request, reply) => {
+            reply("Teapot")
+                .type("text/plain")
+                .code(418)
+                .header("hello", "world")
+                .state("test", "papoi");
         }
     });
 
