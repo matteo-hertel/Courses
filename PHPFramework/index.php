@@ -3,17 +3,21 @@
 require __DIR__ . "/vendor/autoload.php";
 
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
 
 $request = Request::createFromGlobals();
-
+$response = new Response();
 
 switch($request->getPathInfo()) {
         case '/':
-            echo 'This is the home page';
+            $response->setContent('This is the home page');
             break;
         case '/about':
-            echo 'This is the about page';
+            $response->setContent('This is the about page');
             break;
         default:
-            echo 'Not found!';
+            $response->setContent('Not found!');
+            $response->setStatusCode(Response::HTTP_NOT_FOUND);
+            break;
     }
+$response->send();
