@@ -25,7 +25,7 @@
 - ~~Quiz 2: Identity Access Management Quiz~~
 
 Section: 4 - EC2 & Getting Setup
-- Lecture 17: Create an EC2 Instance
+- ~~Lecture 17: Create an EC2 Instance~~
 - Lecture 18: The AWS CLI - Using Credentials
 - Lecture 19: The AWS CLI - Using Roles
 - Lecture 20: Installing PHP & Composer
