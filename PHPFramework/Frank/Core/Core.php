@@ -1,6 +1,6 @@
 <?php
 
-namespace Frank;
+namespace Frank\Core;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
