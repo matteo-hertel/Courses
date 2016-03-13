@@ -8,9 +8,10 @@ class Routes {
 
     public static function setRoutes($app){
 
-        $app->map('/hello/{name}', function ($name) {
-        		return new Response('Hello '.$name);
-        	});
+        $app->map('/hello/{name}', [
+            '_controller' => 'Frank\Http\Controllers\HelloController',
+            "_method" => "index"
+        ]);
 
         //more routes
     }
