@@ -8,6 +8,10 @@ use Symfony\Component\HttpFoundation\Response;
 $request = Request::createFromGlobals();
 $app = new \Frank\Core();
 
+$app->map('/hello/{name}', function ($name) {
+		return new Response('Hello '.$name);
+	});
+
 $response = $app->handle($request);
 
 
