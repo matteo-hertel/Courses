@@ -16,7 +16,7 @@ use Symfony\Component\EventDispatcher\EventDispatcher;
 
 class Core implements HttpKernelInterface{
 
-    protected $routes, $dispatcher;
+    protected $routes, $dispatcher, $container;
 
     public function __construct(){
         $this->routes = new RouteCollection();

@@ -6,6 +6,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Frank\Http\Routes;
 use Frank\Event\RequestEvent;
+use Frank\Core\Container;
 
 
 $request = Request::createFromGlobals();
@@ -18,6 +19,13 @@ $app->on("request", function(RequestEvent $event){
     var_dump($event->getRequest()->getPathInfo());
     echo"</pre>";
 });
+
+
+Container::register("testing", \Frank\Helper\Testing::class);
+
+$helper = Container::getService("testing");
+
+$helper->test("stuff");
 
 
 $response = $app->handle($request);
