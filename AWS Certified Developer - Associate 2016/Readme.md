@@ -24,17 +24,17 @@
 - ~~Lecture 16: IAM - Summary~~
 - ~~Quiz 2: Identity Access Management Quiz~~
 
-Section: 4 - EC2 & Getting Setup
+~~Section: 4 - EC2 & Getting Setup~~
 - ~~Lecture 17: Create an EC2 Instance~~
-- Lecture 18: The AWS CLI - Using Credentials
-- Lecture 19: The AWS CLI - Using Roles
-- Lecture 20: Installing PHP & Composer
-- Lecture 21: Using the PHP SDK to access S3
-- Lecture 22: EC2 Instance Meta-data
-- Lecture 23: Elastic Load Balancers - Exam Tips
-- Lecture 24: SDK's - Exam Tips
-- Lecture 25: Summary of EC2 Section
-- Quiz 3: EC2 Quiz
+- ~~Lecture 18: The AWS CLI - Using Credentials~~
+- ~~Lecture 19: The AWS CLI - Using Roles~~
+- ~~Lecture 20: Installing PHP & Composer~~
+- ~~Lecture 21: Using the PHP SDK to access S3~~
+- ~~Lecture 22: EC2 Instance Meta-data~~
+- ~~Lecture 23: Elastic Load Balancers - Exam Tips~~
+- ~~Lecture 24: SDK's - Exam Tips~~
+- ~~Lecture 25: Summary of EC2 Section~~
+- ~~Quiz 3: EC2 Quiz~~
 
 Section: 5 - S3
 - Lecture 26: S3 Essentials
