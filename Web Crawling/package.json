@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "commander": "^2.9.0",
+    "node-horseman": "^2.8.2",
+    "prompt": "^1.0.0",
+    "valid-url": "^1.0.9"
+  }
+}
