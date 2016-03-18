@@ -37,7 +37,7 @@
 - ~~Quiz 3: EC2 Quiz~~
 
 Section: 5 - S3
-- Lecture 26: S3 Essentials
+- ~~Lecture 26: S3 Essentials}}
 - Lecture 27: Create an S3 Bucket Using the Console
 - Lecture 28: Create an S3 Website
 - Lecture 29: CORS Configuration
