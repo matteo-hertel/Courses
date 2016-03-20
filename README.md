@@ -2,7 +2,7 @@
 All the material from different courses will go in this repository
 
 ## Courses
-### SaaS
+### AWS
 - AWS Certified Developer - Associate 2016
 
 ### JS
