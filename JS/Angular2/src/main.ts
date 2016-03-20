@@ -7,7 +7,7 @@ import "angular2/angular2";
 
 import {Component} from "angular2/core";
 import {bootstrap} from "angular2/platform/browser";
-import {TodoInput} from "./components/02/todo-input"
+import {TodoInput} from "./components/todo-input/todo-input"
 
 @Component({
     selector:`app`,
