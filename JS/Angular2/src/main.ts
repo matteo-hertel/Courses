@@ -8,6 +8,7 @@ import "angular2/angular2";
 import {Component} from "angular2/core";
 import {bootstrap} from "angular2/platform/browser";
 import {TodoInput} from "./components/todo-input/todo-input"
+import {TodoService} from "./services/todo-service"
 
 @Component({
     selector:`app`,
@@ -19,4 +20,4 @@ import {TodoInput} from "./components/todo-input/todo-input"
 class App{
 }
 
-bootstrap(App);
+bootstrap(App, [TodoService]);
