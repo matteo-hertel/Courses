@@ -1,25 +1,30 @@
 import {Component} from "angular2/core";
 import {TodoService} from "./../services/todo-service"
+import {TodoModel} from "./../models/todo-model"
 
 @Component({
     selector: "todo-input",
     template: `
 <div>
+<form (submit)="onSubmit(myInput)">
 <input type="text" #myInput />
-<button (click)="onClick(myInput)">Click Me</button>
-<!--<button (mouseover)="onMouseover($event)">Hover Me</button>-->
 
+<!--<button (click)="onSubmit(myInput)">Click Me</button>
+<button (mouseover)="onMouseover($event)">Hover Me</button>-->
+</form>
 </div>
 `
 })
 export class TodoInput {
 
+
     constructor(public todoService: TodoService) {
         console.log(todoService);
     }
 
-    onClick(el) {
-        this.todoService.todos.push(el.value);
+    onSubmit(el) {
+
+        this.todoService.todos.push(new TodoModel(el.value));
         el.value = "";
     };
     onMouseover(e) {

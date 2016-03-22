@@ -5,7 +5,7 @@ import {TodoService} from "./../services/todo-service"
     selector: "todo-list",
     template: `<div>
 <ul>
-<li *ngFor="#todo of todoService.todos">{{todo}}</li>
+<li *ngFor="#todo of todoService.todos">{{todo.title}}</li>
 </ul>
 </div>`
 })
