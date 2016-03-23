@@ -1,7 +1,11 @@
-export class TodoModel{
+export class TodoModel {
 
-    status:string = "started";
+    status: string = "started";
 
-    constructor( public title:string = ""){};
+    constructor(public title: string = "") { };
+
+    toggle(): void {
+        this.status = this.status === "started" ? "completed" : "started";
+    }
 
 }
