@@ -38,8 +38,8 @@
 
 Section: 5 - S3
 - ~~Lecture 26: S3 Essentials~~
-- Lecture 27: Create an S3 Bucket Using the Console
-- Lecture 28: Create an S3 Website
+- ~~Lecture 27: Create an S3 Bucket Using the Console~~
+- ~~Lecture 28: Create an S3 Website~~
 - Lecture 29: CORS Configuration
 - Lecture 30: S3 Version Control
 - Lecture 31: S3 Lifecycle Management & Glacier
