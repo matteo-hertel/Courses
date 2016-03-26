@@ -24,7 +24,7 @@ export class TodoInput {
 
     onSubmit(el) {
 
-        this.todoService.todos.push(new TodoModel(el.value));
+        this.todoService.addTodo(new TodoModel(el.value));
         el.value = "";
     };
     onMouseover(e) {

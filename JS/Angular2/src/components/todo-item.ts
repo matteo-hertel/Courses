@@ -1,4 +1,4 @@
-import {Component, Input} from "angular2/core";
+import {Component, Input, Output, EventEmitter} from "angular2/core";
 
 @Component({
     selector: "todo-item",
@@ -9,8 +9,9 @@ text-decoration : line-through;
 }
 </style>
 <span class="{{todo.status}}">{{todo.title}}</span>
-             <button (click)="todo.toggle()">Toggle Status</button>`
+             <button (click)="toggle.emit(todo)">Toggle Status</button>`
 })
 export class TodoItem {
     @Input() todo;
+    @Output() toggle = new EventEmitter()
 };
