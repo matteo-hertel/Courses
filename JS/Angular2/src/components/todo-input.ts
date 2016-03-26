@@ -7,6 +7,7 @@ import {TodoModel} from "./../models/todo-model"
     template: `
 <div>
 <form (submit)="onSubmit(myInput)">
+<p>Add new Todo</p>
 <input type="text" #myInput />
 
 <!--<button (click)="onSubmit(myInput)">Click Me</button>

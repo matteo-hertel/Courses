@@ -4,8 +4,8 @@ import {Pipe} from "angular2/core";
              name: "search"
  })
  export class SearchPipe{
-    transform(value){
-        return value.filter((item) => item.title.startsWith("p"));
+    transform(value, [term]){
+        return value.filter((item) => item.title.startsWith(term));
 
     }
 };

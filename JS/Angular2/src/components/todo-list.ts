@@ -10,7 +10,8 @@ import {StartedPipe} from "./../filters/started"
     directives: [TodoItem],
     template: `<div>
 <ul>
-<li *ngFor="#todo of todoService.todos | search | started : status">
+Term: {{term | json}}
+<li *ngFor="#todo of todoService.todos | search : term | started : status">
     <todo-item
 [todo]="todo"
 (toggle)="todoService.toggleTodo($event)"
@@ -21,6 +22,7 @@ import {StartedPipe} from "./../filters/started"
 })
 export class TodoList {
     @Input() status;
+    @Input() term;
     constructor(public todoService: TodoService) {
 
     }

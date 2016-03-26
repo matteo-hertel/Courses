@@ -5,8 +5,14 @@ import {TodoModel} from "./../models/todo-model";
 export class TodoService {
     todos = [
         new TodoModel("papoi?"),
+        new TodoModel("Completed1", "completed"),
         new TodoModel("papoiness?"),
-        new TodoModel("papoi?!?!")
+        new TodoModel("papoi?!?!"),
+        new TodoModel("Completed2", "completed"),
+        new TodoModel("Started1"),
+        new TodoModel("Started2"),
+        new TodoModel("Completed3", "completed"),
+        new TodoModel("Started3"),
 
     ];
 
