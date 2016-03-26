@@ -10,13 +10,15 @@ import {bootstrap} from "angular2/platform/browser";
 import {TodoInput} from "./components/todo-input"
 import {TodoList} from "./components/todo-list"
 import {TodoService} from "./services/todo-service"
+import {StatusSelector} from "./components/status-selector"
 
 @Component({
     selector: `app`,
-    directives: [TodoInput, TodoList],
+    directives: [TodoInput, TodoList, StatusSelector],
     template: `<div>
         <todo-input></todo-input>
-        <todo-list></todo-list>
+        <status-selector (select)="status = $event"></status-selector>
+        <todo-list [status]="status"></todo-list>
     </div>`
 })
 class App {

@@ -1,4 +1,4 @@
-import {Component} from "angular2/core";
+import {Component, Input} from "angular2/core";
 import {TodoService} from "./../services/todo-service"
 import {TodoItem} from "./todo-item"
 import {SearchPipe} from "./../filters/search"
@@ -10,7 +10,7 @@ import {StartedPipe} from "./../filters/started"
     directives: [TodoItem],
     template: `<div>
 <ul>
-<li *ngFor="#todo of todoService.todos | search | started">
+<li *ngFor="#todo of todoService.todos | search | started : status">
     <todo-item
 [todo]="todo"
 (toggle)="todoService.toggleTodo($event)"
@@ -20,6 +20,7 @@ import {StartedPipe} from "./../filters/started"
 </div>`
 })
 export class TodoList {
+    @Input() status;
     constructor(public todoService: TodoService) {
 
     }
