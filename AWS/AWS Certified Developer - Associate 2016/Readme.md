@@ -43,9 +43,9 @@ Section: 5 - S3
 - ~~Lecture 29: CORS Configuration~~
 - ~~Lecture 30: S3 Version Control~~
 - ~~Lecture 31: S3 Lifecycle Management & Glacier~~
-- Lecture 32: Cloud Front Overview
-- Lecture 33: Create a CDN
-- Lecture 34: S3 Summary
+- ~~Lecture 32: Cloud Front Overview~~
+- ~~Lecture 33: Create a CDN~~
+- ~~Lecture 34: S3 Summary~~
 - Quiz 4: S3 Quiz
 
 Section: 6 - Databases Overview & Concepts
