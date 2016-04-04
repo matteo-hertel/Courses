@@ -36,7 +36,7 @@
 - ~~Lecture 25: Summary of EC2 Section~~
 - ~~Quiz 3: EC2 Quiz~~
 
-Section: 5 - S3
+~~Section: 5 - S3~~
 - ~~Lecture 26: S3 Essentials~~
 - ~~Lecture 27: Create an S3 Bucket Using the Console~~
 - ~~Lecture 28: Create an S3 Website~~
@@ -46,7 +46,7 @@ Section: 5 - S3
 - ~~Lecture 32: Cloud Front Overview~~
 - ~~Lecture 33: Create a CDN~~
 - ~~Lecture 34: S3 Summary~~
-- Quiz 4: S3 Quiz
+- ~~Quiz 4: S3 Quiz~~
 
 Section: 6 - Databases Overview & Concepts
 - Lecture 35: Database Essentials
