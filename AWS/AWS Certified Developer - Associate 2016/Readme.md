@@ -48,8 +48,8 @@
 - ~~Lecture 34: S3 Summary~~
 - ~~Quiz 4: S3 Quiz~~
 
-Section: 6 - Databases Overview & Concepts
-- Lecture 35: Database Essentials
+~~Section: 6 - Databases Overview & Concepts~~
+- ~~Lecture 35: Database Essentials~~
 
 Section: 7 - DynamoDB
 - Lecture 36: Introduction to DynamoDB
