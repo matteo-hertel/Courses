@@ -53,8 +53,8 @@
 
 Section: 7 - DynamoDB
 - ~~Lecture 36: Introduction to DynamoDB~~
-- Lecture 37: Creating a DynamoDB Table
-- Lecture 38: DynamoDB Indexes
+- ~~Lecture 37: Creating a DynamoDB Table~~
+- ~~Lecture 38: DynamoDB Indexes~~
 - Lecture 39: Scan vs Query API Calls
 - Lecture 40: DynamoDB & Provisioned Throughput
 - Lecture 41: Using Web Identity Providers To Connect To Authenticate To DynamoDB
