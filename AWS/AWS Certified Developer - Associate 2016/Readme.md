@@ -51,16 +51,16 @@
 ~~Section: 6 - Databases Overview & Concepts~~
 - ~~Lecture 35: Database Essentials~~
 
-Section: 7 - DynamoDB
+~~Section: 7 - DynamoDB~~
 - ~~Lecture 36: Introduction to DynamoDB~~
 - ~~Lecture 37: Creating a DynamoDB Table~~
 - ~~Lecture 38: DynamoDB Indexes~~
 - ~~Lecture 39: Scan vs Query API Calls~~
 - ~~Lecture 40: DynamoDB & Provisioned Throughput~~
 - ~~Lecture 41: Using Web Identity Providers To Connect To Authenticate To DynamoDB~~
-- Lecture 42: Other important aspects of DynamoDB
-- Lecture 43: DynamoDB Summary
-- Quiz 5: DynamoDB
+- ~~Lecture 42: Other important aspects of DynamoDB~~
+- ~~Lecture 43: DynamoDB Summary~~
+- ~~Quiz 5: DynamoDB~~
 
 Section: 8 - Simple Queue Service (SQS)
 - Lecture 44: What is SQS?
