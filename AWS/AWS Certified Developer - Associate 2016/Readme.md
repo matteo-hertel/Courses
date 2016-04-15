@@ -62,10 +62,10 @@
 - ~~Lecture 43: DynamoDB Summary~~
 - ~~Quiz 5: DynamoDB~~
 
-Section: 8 - Simple Queue Service (SQS)
-- Lecture 44: What is SQS?
-- Lecture 45: SQS Developer Exam Tips
-- Quiz 6: SQS Quiz
+~~Section: 8 - Simple Queue Service (SQS)~~
+- ~~Lecture 44: What is SQS?~~
+- ~~Lecture 45: SQS Developer Exam Tips~~
+- ~~Quiz 6: SQS Quiz~~
 
 Section: 9 - Simple Notification Services (SNS)
 - Lecture 46: Introduction to SNS
