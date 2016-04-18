@@ -67,11 +67,11 @@
 - ~~Lecture 45: SQS Developer Exam Tips~~
 - ~~Quiz 6: SQS Quiz~~
 
-Section: 9 - Simple Notification Services (SNS)
-- Lecture 46: Introduction to SNS
-- Lecture 47: Creating an SNS Topic
-- Lecture 48: SNS Summary
-- Quiz 7: SNS Quiz
+~~Section: 9 - Simple Notification Services (SNS)~~
+- ~~Lecture 46: Introduction to SNS~~
+- ~~Lecture 47: Creating an SNS Topic~~
+- ~~Lecture 48: SNS Summary~~
+- ~~Quiz 7: SNS Quiz~~
 
 Section: 10 - Simple Workflow Service (SWF)
 - Lecture 49: Introduction to SWF
