@@ -73,9 +73,9 @@
 - ~~Lecture 48: SNS Summary~~
 - ~~Quiz 7: SNS Quiz~~
 
-Section: 10 - Simple Workflow Service (SWF)
-- Lecture 49: Introduction to SWF
-- Quiz 8: SWF Quiz
+~~Section: 10 - Simple Workflow Service (SWF)~~
+- ~~Lecture 49: Introduction to SWF~~
+- ~~Quiz 8: SWF Quiz~~
 
 Section: 11 - CloudFormation
 - Lecture 50: Using Cloud Formation
