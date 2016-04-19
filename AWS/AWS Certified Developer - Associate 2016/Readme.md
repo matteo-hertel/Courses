@@ -77,9 +77,9 @@
 - ~~Lecture 49: Introduction to SWF~~
 - ~~Quiz 8: SWF Quiz~~
 
-Section: 11 - CloudFormation
-- Lecture 50: Using Cloud Formation
-- Quiz 9: Cloud Formation Quiz
+~~Section: 11 - CloudFormation~~
+- ~~Lecture 50: Using Cloud Formation~~
+- ~~Quiz 9: Cloud Formation Quiz~~
 
 Section: 12 - Elastic Beanstalk
 - Lecture 51: Using Elastic Beanstalk
