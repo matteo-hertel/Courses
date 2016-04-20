@@ -9,6 +9,7 @@ All the material from different courses will go in this repository
 - ~~[Node Hapi.js up and Running](https://egghead.io/lessons/node-js-hapi-js-up-and-running?series=introduction-to-node-servers-with-hapi-js)~~
 - ~~[Say "Hello World" to Angular 2](https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals)~~
 - [Charting](https://laracasts.com/series/charting-and-you)
+- [Building a React Universal Blog App](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
 
 ### PHP
 - ~~[PHP framweork with Symfony Components](http://www.sitepoint.com/build-php-framework-symfony-components/)~~
