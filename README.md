@@ -15,5 +15,5 @@ All the material from different courses will go in this repository
 - ~~[PHP framweork with Symfony Components](http://www.sitepoint.com/build-php-framework-symfony-components/)~~
 
 ### Editors
-#### Vim
-- [Learn to use Vim](https://egghead.io/series/learn-to-use-vim)
+~~#### Vim~~
+- ~~[Learn to use Vim](https://egghead.io/series/learn-to-use-vim)~~
