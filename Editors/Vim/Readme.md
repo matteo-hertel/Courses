@@ -7,7 +7,7 @@
 - ~~Saving Files in Vim~~
 - ~~Vim's built-in commands~~
 - ~~Combining Vim commands~~
-- Copy and Paste inside of Vim
-- Configure VIM
-- The Vim Config file
+- ~~Copy and Paste inside of Vim~~
+- ~~Configure VIM~~
+- ~~The Vim Config file~~
 
