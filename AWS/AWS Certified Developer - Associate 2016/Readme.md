@@ -85,9 +85,9 @@
 - ~~Lecture 51: Using Elastic Beanstalk~~
 - ~~Quiz 10: Elastic Beanstalk Quiz~~
 
-Section: 13 - Virtual Private Cloud (VPC)
-- Lecture 52: VPC Overview
-- Lecture 53: Building our own custom VPC
+~~Section: 13 - Virtual Private Cloud (VPC)~~
+- ~~Lecture 52: VPC Overview~~
+- ~~Lecture 53: Building our own custom VPC~~
 - Lecture 54: Creating a NAT instance
 - Lecture 55: Network Access Control Lists
 - Lecture 56: VPC Summary
