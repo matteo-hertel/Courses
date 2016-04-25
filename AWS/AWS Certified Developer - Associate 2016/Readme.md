@@ -81,9 +81,9 @@
 - ~~Lecture 50: Using Cloud Formation~~
 - ~~Quiz 9: Cloud Formation Quiz~~
 
-Section: 12 - Elastic Beanstalk
+~~Section: 12 - Elastic Beanstalk~~
 - ~~Lecture 51: Using Elastic Beanstalk~~
-- Quiz 10: Elastic Beanstalk Quiz
+- ~~Quiz 10: Elastic Beanstalk Quiz~~
 
 Section: 13 - Virtual Private Cloud (VPC)
 - Lecture 52: VPC Overview
