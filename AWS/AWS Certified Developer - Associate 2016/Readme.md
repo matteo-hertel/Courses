@@ -90,7 +90,7 @@
 - ~~Lecture 53: Building our own custom VPC~~
 - ~~Lecture 54: Creating a NAT instance~~
 - ~~Lecture 55: Network Access Control Lists~~
-- Lecture 56: VPC Summary
+- ~~Lecture 56: VPC Summary~~
 - Quiz 11: VPC Quiz
 
 Section: 14 - AWS Shared Responsibility
