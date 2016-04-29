@@ -93,9 +93,9 @@
 - ~~Lecture 56: VPC Summary~~
 - ~~Quiz 11: VPC Quiz~~
 
-Section: 14 - AWS Shared Responsibility
-- Lecture 57: Shared Responsibility Model
-- Quiz 12: Shared Responsibility Quiz
+~~Section: 14 - AWS Shared Responsibility~~
+- ~~Lecture 57: Shared Responsibility Model~~
+- ~~Quiz 12: Shared Responsibility Quiz~~
 
 Section: 15 - The Exam
 - Lecture 58: What to expect?
