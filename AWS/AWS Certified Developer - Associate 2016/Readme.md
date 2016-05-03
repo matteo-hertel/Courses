@@ -24,7 +24,7 @@
 - ~~Lecture 15: Web Identity Federation~~
 - ~~Lecture 16: IAM - Summary~~
 - ~~Quiz 2: Identity Access Management Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 4 - EC2 & Getting Setup~~
 - ~~Lecture 17: Create an EC2 Instance~~
