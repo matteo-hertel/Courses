@@ -97,9 +97,9 @@
 - ~~Lecture 57: Shared Responsibility Model~~
 - ~~Quiz 12: Shared Responsibility Quiz~~
 
-Section: 15 - The Exam
-- Lecture 58: What to expect?
-- Quiz 13: Mega Quiz!
+~~Section: 15 - The Exam~~
+- ~~Lecture 58: What to expect?~~
+- ~~Quiz 13: Mega Quiz!~~
 
 Section: 16 - What's next?
 - Lecture 59: Thank You and What's Next?
