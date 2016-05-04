@@ -37,7 +37,7 @@
 - ~~Lecture 24: SDK's - Exam Tips~~
 - ~~Lecture 25: Summary of EC2 Section~~
 - ~~Quiz 3: EC2 Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 5 - S3~~
 - ~~Lecture 26: S3 Essentials~~
