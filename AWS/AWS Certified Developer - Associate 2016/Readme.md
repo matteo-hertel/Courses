@@ -50,7 +50,7 @@
 - ~~Lecture 33: Create a CDN~~
 - ~~Lecture 34: S3 Summary~~
 - ~~Quiz 4: S3 Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 6 - Databases Overview & Concepts~~
 - ~~Lecture 35: Database Essentials~~
@@ -65,7 +65,7 @@
 - ~~Lecture 42: Other important aspects of DynamoDB~~
 - ~~Lecture 43: DynamoDB Summary~~
 - ~~Quiz 5: DynamoDB~~
-- Quiz taken 1 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 8 - Simple Queue Service (SQS)~~
 - ~~Lecture 44: What is SQS?~~
