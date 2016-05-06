@@ -55,7 +55,7 @@
 ~~Section: 6 - Databases Overview & Concepts~~
 - ~~Lecture 35: Database Essentials~~
 
-~~Section: 7 - DynamoDB~~
+~~Section: 7 - DynamoDB~~x2
 - ~~Lecture 36: Introduction to DynamoDB~~
 - ~~Lecture 37: Creating a DynamoDB Table~~
 - ~~Lecture 38: DynamoDB Indexes~~
@@ -65,7 +65,7 @@
 - ~~Lecture 42: Other important aspects of DynamoDB~~
 - ~~Lecture 43: DynamoDB Summary~~
 - ~~Quiz 5: DynamoDB~~
-- Quiz taken 3 time(s)
+- Quiz taken 5 time(s)
 
 ~~Section: 8 - Simple Queue Service (SQS)~~
 - ~~Lecture 44: What is SQS?~~
