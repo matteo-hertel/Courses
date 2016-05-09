@@ -114,6 +114,6 @@
 - ~~Quiz 13: Mega Quiz!~~
 - Quiz taken 1 time(s)
 
-Section: 16 - What's next?
-- Lecture 59: Thank You and What's Next?
-- Lecture 60: Questions? Check out our discussion forums!
+~~Section: 16 - What's next?~~
+- ~~Lecture 59: Thank You and What's Next?~~
+- ~~Lecture 60: Questions? Check out our discussion forums!~~
