@@ -24,7 +24,7 @@
 - ~~Lecture 15: Web Identity Federation~~
 - ~~Lecture 16: IAM - Summary~~
 - ~~Quiz 2: Identity Access Management Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 4 - EC2 & Getting Setup~~
 - ~~Lecture 17: Create an EC2 Instance~~
@@ -50,7 +50,7 @@
 - ~~Lecture 33: Create a CDN~~
 - ~~Lecture 34: S3 Summary~~
 - ~~Quiz 4: S3 Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 6 - Databases Overview & Concepts~~
 - ~~Lecture 35: Database Essentials~~
@@ -71,14 +71,14 @@
 - ~~Lecture 44: What is SQS?~~
 - ~~Lecture 45: SQS Developer Exam Tips~~
 - ~~Quiz 6: SQS Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 9 - Simple Notification Services (SNS)~~
 - ~~Lecture 46: Introduction to SNS~~
 - ~~Lecture 47: Creating an SNS Topic~~
 - ~~Lecture 48: SNS Summary~~
 - ~~Quiz 7: SNS Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 10 - Simple Workflow Service (SWF)~~
 - ~~Lecture 49: Introduction to SWF~~
