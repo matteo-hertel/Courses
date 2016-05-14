@@ -1,11 +1,26 @@
 /* jshint node:true */
 /* jshint esnext:true */
 'use strict';
-console.time("CreateArray");
-var array = [];
-console.time("Looping");
-for (let i = 0; i < 10000000; i++) {
-    array.push(i);
+
+function Character(name, power) {
+    this.name = name;
+    this.power = power;
+
 }
-console.timeEnd("Looping");
-console.timeEnd("CreateArray");
+
+var buffy = new Character("Buffy", "slayer");
+
+var willow = new Character("willow", "witch");
+var spike = new Character("Spike", "vampire");
+
+var chars = [buffy, willow, spike];
+
+console.table(chars);
+
+var charsNames = {
+    "Buffy": buffy,
+    "Willow": willow,
+    "Spike": spike
+};
+
+console.table(charsNames, ["power"]);
