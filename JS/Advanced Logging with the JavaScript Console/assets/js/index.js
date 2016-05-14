@@ -1,11 +1,7 @@
 /* jshint node:true */
 /* jshint esnext:true */
 'use strict';
-// standard mode
-var foo;
-
-if (!foo) {
-    console.error("Foo wasn't set");
+for (let i = 0; i < 100; i++) {
+    let num = Math.random() * 100;
+    num > 50 ? console.count("Greater than 50") : console.count("Less than 50");
 }
-//assert mode
-console.assert(foo, "Foo wans't set");
