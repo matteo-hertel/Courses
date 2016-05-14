@@ -1,15 +1,14 @@
-/**
- * 5 Semantic Levels
- */
-console.log("Simple log message");
-console.warn("Warning message!");
-console.error("Error message!");
-console.info("Info message");
-console.debug("Debug message");
+/* jshint node:true */
+/* jshint esnext:true */
+'use strict';
 
-//Why is this not available in plain JS??
-console.log("My name is %s ", "Papoi");
-console.log("You can even log object, for instance: %o", {
-    foo: "bar"
-});
-console.log("This is my %coutput", "color:red;font-size:54px;background-color:black);");
+for (let i = 0; i < 100; i++) {
+    let num = Math.random() * 100;
+    console.groupCollapsed("Picking a random number");
+    console.log("N > 10?", num > 10);
+    console.log("N > 50?", num > 50);
+    console.groupCollapsed("Nested group");
+    console.log(num);
+    console.groupEnd();
+    console.groupEnd();
+}
