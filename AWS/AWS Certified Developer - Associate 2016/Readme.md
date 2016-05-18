@@ -83,17 +83,17 @@
 ~~Section: 10 - Simple Workflow Service (SWF)~~
 - ~~Lecture 49: Introduction to SWF~~
 - ~~Quiz 8: SWF Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 11 - CloudFormation~~
 - ~~Lecture 50: Using Cloud Formation~~
 - ~~Quiz 9: Cloud Formation Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 12 - Elastic Beanstalk~~
 - ~~Lecture 51: Using Elastic Beanstalk~~
 - ~~Quiz 10: Elastic Beanstalk Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 13 - Virtual Private Cloud (VPC)~~
 - ~~Lecture 52: VPC Overview~~
