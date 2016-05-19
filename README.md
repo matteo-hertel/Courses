@@ -19,5 +19,5 @@ All the material from different courses will go in this repository
 - [SQL - Beyond The Basics](https://www.udemy.com/sql-beyond-the-basics/learn)
 
 ### Editors
-~~#### Vim~~
+#### ~~Vim~~
 - ~~[Learn to use Vim](https://egghead.io/series/learn-to-use-vim)~~
