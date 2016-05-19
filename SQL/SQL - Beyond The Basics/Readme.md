@@ -1,2 +1,2 @@
-# SQL - Beyond The Basics
+# ~~SQL - Beyond The Basics~~
 ##Lessons
