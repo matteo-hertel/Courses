@@ -78,7 +78,7 @@
 - ~~Lecture 47: Creating an SNS Topic~~
 - ~~Lecture 48: SNS Summary~~
 - ~~Quiz 7: SNS Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 10 - Simple Workflow Service (SWF)~~
 - ~~Lecture 49: Introduction to SWF~~
@@ -88,7 +88,7 @@
 ~~Section: 11 - CloudFormation~~
 - ~~Lecture 50: Using Cloud Formation~~
 - ~~Quiz 9: Cloud Formation Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 12 - Elastic Beanstalk~~
 - ~~Lecture 51: Using Elastic Beanstalk~~
@@ -107,7 +107,7 @@
 ~~Section: 14 - AWS Shared Responsibility~~
 - ~~Lecture 57: Shared Responsibility Model~~
 - ~~Quiz 12: Shared Responsibility Quiz~~
-- Quiz taken 1 time(s)
+- Quiz taken 2 time(s)
 
 ~~Section: 15 - The Exam~~
 - ~~Lecture 58: What to expect?~~
