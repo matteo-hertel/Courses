@@ -14,6 +14,7 @@ All the material from different courses will go in this repository
 
 ### PHP
 - ~~[PHP framweork with Symfony Components](http://www.sitepoint.com/build-php-framework-symfony-components/)~~
+- [Symfony Components](https://laracasts.com/series/discover-symfony-components)
 
 ### SQL
 - ~~[SQL - Beyond The Basics](https://www.udemy.com/sql-beyond-the-basics/learn)~~
