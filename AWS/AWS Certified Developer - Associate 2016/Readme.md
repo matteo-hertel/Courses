@@ -71,7 +71,7 @@
 - ~~Lecture 44: What is SQS?~~
 - ~~Lecture 45: SQS Developer Exam Tips~~
 - ~~Quiz 6: SQS Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 9 - Simple Notification Services (SNS)~~
 - ~~Lecture 46: Introduction to SNS~~
@@ -83,7 +83,7 @@
 ~~Section: 10 - Simple Workflow Service (SWF)~~
 - ~~Lecture 49: Introduction to SWF~~
 - ~~Quiz 8: SWF Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 11 - CloudFormation~~
 - ~~Lecture 50: Using Cloud Formation~~
@@ -93,7 +93,7 @@
 ~~Section: 12 - Elastic Beanstalk~~
 - ~~Lecture 51: Using Elastic Beanstalk~~
 - ~~Quiz 10: Elastic Beanstalk Quiz~~
-- Quiz taken 2 time(s)
+- Quiz taken 3 time(s)
 
 ~~Section: 13 - Virtual Private Cloud (VPC)~~
 - ~~Lecture 52: VPC Overview~~
