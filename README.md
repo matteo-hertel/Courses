@@ -23,6 +23,3 @@ All the material from different courses will go in this repository
 #### ~~Vim~~
 - ~~[Learn to use Vim](https://egghead.io/series/learn-to-use-vim)~~
 
-###Build Tools
-### WebPack
-- [Webpack for Production](https://egghead.io/courses/production-webpack-working-title)
