@@ -12,7 +12,7 @@ All the material from different courses will go in this repository
 - [Building a React Universal Blog App](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
 - ~~[Advanced Logging with the JavaScript Console](https://egghead.io/series/js-console-for-power-users)~~
 - [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-
+- [JavaScript Design Patterns](https://www.udacity.com/course/viewer#!/c-ud989/l-3417188540/m-3374098584)
 ### PHP
 - ~~[PHP framweork with Symfony Components](http://www.sitepoint.com/build-php-framework-symfony-components/)~~
 - [Symfony Components](https://laracasts.com/series/discover-symfony-components)
