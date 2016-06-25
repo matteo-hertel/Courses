@@ -1,38 +1,30 @@
 # Courses
 
-All the material from different courses will go in this repository
+All the material from different courses will go in this repository, mostly is a quick and simple way for me to keep track of what I'm doing
 
-## Courses
-
-### AWS
-
-- [AWS Certified Developer - Associate 2016](https://www.udemy.com/aws-certified-developer-associate)
+## MOOC
+###CS
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+- [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
+## Others
 
 ### JS
 
-- ~~[Node Hapi.js up and Running](https://egghead.io/lessons/node-js-hapi-js-up-and-running?series=introduction-to-node-servers-with-hapi-js)~~
-- ~~[Say "Hello World" to Angular 2](https://egghead.io/lessons/angular-2-say-hello-world-to-angular-2?series=angular-2-fundamentals)~~
 - [Charting](https://laracasts.com/series/charting-and-you)
 - [Building a React Universal Blog App](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
-- ~~[Advanced Logging with the JavaScript Console](https://egghead.io/series/js-console-for-power-users)~~
 - [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [JavaScript Design Patterns](https://www.udacity.com/course/viewer#!/c-ud989/l-3417188540/m-3374098584)
 
-  ### PHP
-
-- ~~[PHP framweork with Symfony Components](http://www.sitepoint.com/build-php-framework-symfony-components/)~~
+### PHP
 
 - [Symfony Components](https://laracasts.com/series/discover-symfony-components)
 
 ### SQL
 
-- ~~[SQL - Beyond The Basics](https://www.udemy.com/sql-beyond-the-basics/learn)~~
 
 ### Editors
 
-#### ~~Vim~~
-
-- ~~[Learn to use Vim](https://egghead.io/series/learn-to-use-vim)~~
+#### Vim
 
 ### Server
 
@@ -55,3 +47,5 @@ All the material from different courses will go in this repository
 #### AWS/Lambda
 
 - [Gordon](https://github.com/jorgebastida/gordon)
+
+##[Archive](/archive)
