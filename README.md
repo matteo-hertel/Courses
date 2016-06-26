@@ -36,16 +36,12 @@ All the material from different courses will go in this repository, mostly is a 
 ####TDD
 - [JAVASCRIPT TDD](http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd)
 
-
-### Tutorials
-
-- [Jumpstart Your PHP Testing with Codeception](https://www.toptal.com/php/php-testing-with-codeception)
-- [Test driven API development using Laravel dingo and JWT](https://dotdev.co/test-driven-api-development-using-laravel-dingo-and-jwt-with-documentation-ae4014260148)
-
 ### Frameworks
 
 #### AWS/Lambda
 
 - [Gordon](https://github.com/jorgebastida/gordon)
 
-##[Archive](/archive)
+## [Tutorials](/Tutorials)
+## [Archive](/Archive)
+
