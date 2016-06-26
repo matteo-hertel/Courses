@@ -1,12 +1,9 @@
-process.stdin.setEncoding('utf8');
+/**
+ * If arguments are passed through the command line we can use process.argv
+ * 0 is the interpreter and 1 is for the script path, everything else is what has been passed through the command line
+ *
+ */
+const a = parseInt(process.argv[2]) || 0 // first argument or 0
+const b = parseInt(process.argv[3]) || 0 // second argument or 0
 
-process.stdin.on('readable', () => {
-  var chunk = process.stdin.read();
-    if (chunk !== null) {
-        process.stdout.write(`data: ${chunk}`);
-	  }
-	  });
-
-	  process.stdin.on('end', () => {
-	    process.stdout.write('end');
-	    });
+console.log(a + b);
