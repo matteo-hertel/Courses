@@ -4,10 +4,10 @@
 
 Welcome
 
-- Solving a Simple Code Problem
-- Solving a More Challenging Code Problem
-- Acknowledgements (Optional)
-- Programming Assignment: A plus B
+- ~~Solving a Simple Code Problem~~
+- ~~Solving a More Challenging Code Problem~~
+- ~~Acknowledgements (Optional)~~
+- ~~Programming Assignment: A plus B~~
 - Programming Assignment: Maximum Pairwise Product
 
 ## Week 2
