@@ -1,14 +1,14 @@
 # Syllabus
 
-## Week 1
+##~~Week 1~~
 
-Welcome
+~~Welcome~~
 
 - ~~Solving a Simple Code Problem~~
 - ~~Solving a More Challenging Code Problem~~
 - ~~Acknowledgements (Optional)~~
 - ~~Programming Assignment: A plus B~~
-- Programming Assignment: Maximum Pairwise Product
+- ~~Programming Assignment: Maximum Pairwise Product~~
 
 ## Week 2
 
