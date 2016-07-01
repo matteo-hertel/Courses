@@ -6,28 +6,28 @@ class Tasks{
 
 protected $tasks;
 
-public function __constuct($tasks){
-    $this->task = $task;
+public function __construct($tasks){
+    $this->tasks = $tasks;
 }
 
 }
 
-class Taks {
+class Task {
 
-    protected $desctription;
+    protected $description;
 
-    public function __construct($desctription){
-        $this->desctription = $desctription;
+    public function __construct($description){
+        $this->description = $description;
     }
 
 }
 
 
-$tasks = new Tasks(
+$tasks = new Tasks([
 new Task("Test task"),
 new Task("New Task"),
 new Task("Go to the store"),
 new Task("Commit to github")
-);
+]);
 
 dump($tasks);
