@@ -1,14 +1,31 @@
 # Syllabus
 
-##~~Week 1~~
+##Week 1
 
-~~Welcome~~
+### Welcome
+- ~~Welcome!~~
 
-- ~~Solving a Simple Code Problem~~
-- ~~Solving a More Challenging Code Problem~~
-- ~~Acknowledgements (Optional)~~
-- ~~Programming Assignment: A plus B~~
+### Solving a Simple Code Problem
+- ~~Overview~~
+- ~~Available Programming Languages~~
+- ~~Programming Assignment: A plus B3h~~
+- ~~Solving the Problem (screencast)~~
+- ~~What's Up Next?~~
+- ~~Practice Quiz: Solving Programming Assignments~~
+
+### Solving a More Challenging Code Problem
 - ~~Programming Assignment: Maximum Pairwise Product~~
+- ~~Solving the Problem: Improving the Naive Solution, Testing, Debugging~~
+- Solving the Problem: Improving the Naive Solution, Testing, Debugging
+- Stress Testing: the [Almost] Silver Bullet for Debugging
+- Stress Test - Implementation
+- Stress Test - Find the Test and Debug
+- Stress Test - More Testing, Submit and Pass!
+- FAQ on Programming Assignments
+- Practice Quiz: Solving Programming Assignments
+
+### Acknowledgements (Optional)
+- Acknowledgements
 
 ## Week 2
 
