@@ -1,4 +1,4 @@
-# Syllabus
+0# Syllabus
 
 ##Week 1
 
@@ -16,11 +16,11 @@
 ### Solving a More Challenging Code Problem
 - ~~Programming Assignment: Maximum Pairwise Product~~
 - ~~Solving the Problem: Improving the Naive Solution, Testing, Debugging~~
-- Solving the Problem: Improving the Naive Solution, Testing, Debugging
-- Stress Testing: the [Almost] Silver Bullet for Debugging
-- Stress Test - Implementation
-- Stress Test - Find the Test and Debug
-- Stress Test - More Testing, Submit and Pass!
+- ~~Solving the Problem: Improving the Naive Solution, Testing, Debugging~~
+- ~~Stress Testing: the [Almost] Silver Bullet for Debugging~~
+- ~~Stress Test - Implementation~~
+- ~~Stress Test - Find the Test and Debug~~
+- ~~Stress Test - More Testing, Submit and Pass!~~
 - FAQ on Programming Assignments
 - Practice Quiz: Solving Programming Assignments
 
