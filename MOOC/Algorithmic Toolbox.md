@@ -1,4 +1,4 @@
-0# Syllabus
+# Syllabus
 
 ##Week 1
 
