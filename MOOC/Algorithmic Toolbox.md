@@ -1,8 +1,8 @@
 # Syllabus
 
-##Week 1
+## ~~Week 1~~
 
-### Welcome
+### ~~Welcome~~
 - ~~Welcome!~~
 
 ### ~~Solving a Simple Code Problem~~
