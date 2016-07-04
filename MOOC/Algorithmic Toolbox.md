@@ -5,7 +5,7 @@
 ### Welcome
 - ~~Welcome!~~
 
-### Solving a Simple Code Problem
+### ~~Solving a Simple Code Problem~~
 - ~~Overview~~
 - ~~Available Programming Languages~~
 - ~~Programming Assignment: A plus B3h~~
@@ -13,7 +13,7 @@
 - ~~What's Up Next?~~
 - ~~Practice Quiz: Solving Programming Assignments~~
 
-### Solving a More Challenging Code Problem
+### ~~Solving a More Challenging Code Problem~~
 - ~~Programming Assignment: Maximum Pairwise Product~~
 - ~~Solving the Problem: Improving the Naive Solution, Testing, Debugging~~
 - ~~Solving the Problem: Improving the Naive Solution, Testing, Debugging~~
@@ -21,8 +21,8 @@
 - ~~Stress Test - Implementation~~
 - ~~Stress Test - Find the Test and Debug~~
 - ~~Stress Test - More Testing, Submit and Pass!~~
-- FAQ on Programming Assignments
-- Practice Quiz: Solving Programming Assignments
+- ~~FAQ on Programming Assignments~~
+- ~~Practice Quiz: Solving Programming Assignments~~
 
 ### Acknowledgements (Optional)
 - Acknowledgements
