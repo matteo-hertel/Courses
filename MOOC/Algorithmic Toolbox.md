@@ -24,14 +24,14 @@
 - ~~FAQ on Programming Assignments~~
 - ~~Practice Quiz: Solving Programming Assignments~~
 
-### Acknowledgements (Optional)
-- Acknowledgements
+### ~~Acknowledgements (Optional)~~
+- ~~Acknowledgements~~
 
 ## Week 2
 
 Introduction
 
-- Why Study Algorithms?
+- ~~Why Study Algorithms?~~
 - Fibonacci Numbers
 - Greatest Common Divisor
 - Big-O Notation
