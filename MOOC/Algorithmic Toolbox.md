@@ -29,24 +29,24 @@
 
 ## Week 2
 
-### Introduction
-- Why Study Algorithms?
-- Why Study Algorithms?
-- Coming Up3 min
+### ~~Introduction~~
+- ~~Why Study Algorithms?~~
+- ~~Why Study Algorithms?~~
+- ~~Coming Up3 min~~
 
-### Fibonacci Numbers
-- Problem Overview
-- Naive Algorithm
-- Efficient Algorithm
-- Resources2
+### ~~Fibonacci Numbers~~
+- ~~Problem Overview~~
+- ~~Naive Algorithm~~
+- ~~Efficient Algorithm~~
+- ~~Resources2~~
 
-### Greatest Common Divisor
-- Problem Overview and Naive Algorithm
-- Efficient Algorithm
-- Resources
+### ~~Greatest Common Divisor~~
+- ~~Problem Overview and Naive Algorithm~~
+- ~~Efficient Algorithm~~
+- ~~Resources~~
 
 ### Big-O Notation
-- Computing Runtimes
+- ~~Computing Runtimes~~
 - Asymptotic Notation
 - Big-O Notation
 - Using Big-O
