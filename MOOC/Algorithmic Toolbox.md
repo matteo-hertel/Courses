@@ -47,12 +47,12 @@
 
 ### Big-O Notation
 - ~~Computing Runtimes~~
-- Asymptotic Notation
-- Big-O Notation
-- Using Big-O
-- Resources
-- Quiz: Logarithms
-- Quiz: Big-O
+- ~~Asymptotic Notation~~
+- ~~Big-O Notation~~
+- ~~Using Big-O~~
+- ~~Resources~~
+- ~~Quiz: Logarithms~~
+- ~~Quiz: Big-O~~
 - Quiz: Growth rate2 questions
 
 ### Course Overview
