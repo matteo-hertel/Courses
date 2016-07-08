@@ -55,8 +55,8 @@
 - ~~Quiz: Big-O~~
 - Quiz: Growth rate2 questions
 
-### Course Overview
-- Course Overview
+### ~~Course Overview~~
+- ~~Course Overview~~
 
 ### Programming Assignment 1
 - Programming Assignment: Programming Assignment 1: Introduction
