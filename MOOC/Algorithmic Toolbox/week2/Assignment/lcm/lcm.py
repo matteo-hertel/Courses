@@ -4,6 +4,9 @@ import sys
 def lcm(a, b):
     #write your code here
     return a*b
+    '''
+	lcm  = ((a*b)/ gdc)
+    '''
 
 if __name__ == '__main__':
     input = sys.stdin.read()
