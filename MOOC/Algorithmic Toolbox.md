@@ -53,7 +53,7 @@
 - ~~Resources~~
 - ~~Quiz: Logarithms~~
 - ~~Quiz: Big-O~~
-- Quiz: Growth rate2 questions
+- ~~Quiz: Growth rate2 questions~~
 
 ### ~~Course Overview~~
 - ~~Course Overview~~
