@@ -27,7 +27,7 @@
 ### ~~Acknowledgements (Optional)~~
 - ~~Acknowledgements~~
 
-## Week 2
+## ~~Week 2~~
 
 ### ~~Introduction~~
 - ~~Why Study Algorithms?~~
@@ -45,7 +45,7 @@
 - ~~Efficient Algorithm~~
 - ~~Resources~~
 
-### Big-O Notation
+### ~~Big-O Notation~~
 - ~~Computing Runtimes~~
 - ~~Asymptotic Notation~~
 - ~~Big-O Notation~~
@@ -58,8 +58,8 @@
 ### ~~Course Overview~~
 - ~~Course Overview~~
 
-### Programming Assignment 1
-- Programming Assignment: Programming Assignment 1: Introduction
+### ~~Programming Assignment 1~~
+- ~~Programming Assignment: Programming Assignment 1: Introduction~~
 
 ## Week 3
 
