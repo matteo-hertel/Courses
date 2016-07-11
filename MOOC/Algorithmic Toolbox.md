@@ -63,21 +63,23 @@
 
 ## Week 3
 
-###Introduction
+### Introduction
 - ~~Largest Number~~
 - ~~Car Fueling~~
 - ~~Car Fueling - Implementation and Analysis~~
 - ~~Main Ingredients of Greedy Algorithms~~
 - Quiz: Greedy Algorithms
 
-###Grouping Children
+### Grouping Children
+
 - Celebration Party Problem
 - Efficient Algorithm for Grouping Children
 - Analysis and Implementation of the Efficient Algorithm
 - Fractional Knapsack
-- 
-###Long Hike
-- Fractional Knapsack - Implementation, Analysis and Optimization
+
+### Long Hike
+- Fractional Knapsack 
+- Implementation, Analysis and Optimization
 - Review of Greedy Algorithms
 - Resources
 - Quiz: Fractional Knapsack
