@@ -64,10 +64,10 @@
 ## Week 3
 
 ###Introduction
-- Largest Number
-- Car Fueling
-- Car Fueling - Implementation and Analysis
-- Main Ingredients of Greedy Algorithms
+- ~~Largest Number~~
+- ~~Car Fueling~~
+- ~~Car Fueling - Implementation and Analysis~~
+- ~~Main Ingredients of Greedy Algorithms~~
 - Quiz: Greedy Algorithms
 
 ###Grouping Children
