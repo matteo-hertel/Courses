@@ -63,14 +63,27 @@
 
 ## Week 3
 
-Greedy Algorithms
-
-- Introduction
-- Grouping Children
-- Fractional Knapsack
-- Code Problems
+###Introduction
+- Largest Number
+- Car Fueling
+- Car Fueling - Implementation and Analysis
+- Main Ingredients of Greedy Algorithms
 - Quiz: Greedy Algorithms
+
+###Grouping Children
+- Celebration Party Problem
+- Efficient Algorithm for Grouping Children
+- Analysis and Implementation of the Efficient Algorithm
+- Fractional Knapsack
+- 
+###Long Hike
+- Fractional Knapsack - Implementation, Analysis and Optimization
+- Review of Greedy Algorithms
+- Resources
 - Quiz: Fractional Knapsack
+
+### Code Problems
+
 - Programming Assignment: Programming Assignment 2: Greedy Algorithms
 
 ## Week 4
