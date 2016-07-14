@@ -75,7 +75,6 @@
 - ~~Celebration Party Problem~~
 - ~~Efficient Algorithm for Grouping Children~~
 - ~~Analysis and Implementation of the Efficient Algorithm~~
-- Fractional Knapsack
 
 ### Long Hike
 - Fractional Knapsack 
