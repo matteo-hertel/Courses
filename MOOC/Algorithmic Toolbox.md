@@ -77,8 +77,8 @@
 - ~~Analysis and Implementation of the Efficient Algorithm~~
 
 ### Long Hike
-- Fractional Knapsack 
-- Implementation, Analysis and Optimization
+- ~~Fractional Knapsack~~
+- ~~Implementation, Analysis and Optimization~~
 - Review of Greedy Algorithms
 - Resources
 - Quiz: Fractional Knapsack
