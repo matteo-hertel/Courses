@@ -79,8 +79,8 @@
 ### Long Hike
 - ~~Fractional Knapsack~~
 - ~~Implementation, Analysis and Optimization~~
-- Review of Greedy Algorithms
-- Resources
+- ~~Review of Greedy Algorithms~~
+- ~~Resources~~
 - Quiz: Fractional Knapsack
 
 ### Code Problems
