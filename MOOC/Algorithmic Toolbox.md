@@ -81,7 +81,7 @@
 - ~~Implementation, Analysis and Optimization~~
 - ~~Review of Greedy Algorithms~~
 - ~~Resources~~
-- Quiz: Fractional Knapsack
+- ~~Quiz: Fractional Knapsack~~
 
 ### Code Problems
 
