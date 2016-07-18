@@ -90,12 +90,12 @@
 ## Week 4
 
 ### Introduction
-Intro
-Linear Search
-Binary Search
-Binary Search Runtime
-Resources
-Quiz: Linear Search and Binary Search
+- Intro
+- Linear Search
+- Binary Search
+- Binary Search Runtime
+- Resources
+- Quiz: Linear Search and Binary Search
 
 ### Polynomial Multiplication
 - Problem Overview and Naïve Solution
