@@ -61,31 +61,31 @@
 ### ~~Programming Assignment 1~~
 - ~~Programming Assignment: Programming Assignment 1: Introduction~~
 
-## Week 3
+## ~~Week 3~~
 
-### Introduction
+### ~~Introduction~~
 - ~~Largest Number~~
 - ~~Car Fueling~~
 - ~~Car Fueling - Implementation and Analysis~~
 - ~~Main Ingredients of Greedy Algorithms~~
 - ~~Quiz: Greedy Algorithms~~
 
-### Grouping Children
+### ~~Grouping Children~~
 
 - ~~Celebration Party Problem~~
 - ~~Efficient Algorithm for Grouping Children~~
 - ~~Analysis and Implementation of the Efficient Algorithm~~
 
-### Long Hike
+### ~~Long Hike~~
 - ~~Fractional Knapsack~~
 - ~~Implementation, Analysis and Optimization~~
 - ~~Review of Greedy Algorithms~~
 - ~~Resources~~
 - ~~Quiz: Fractional Knapsack~~
 
-### Code Problems
+### ~~Code Problems~~
 
-- Programming Assignment: Programming Assignment 2: Greedy Algorithms
+- ~~Programming Assignment: Programming Assignment 2: Greedy Algorithms~~
 
 ## Week 4
 
