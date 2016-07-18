@@ -89,19 +89,48 @@
 
 ## Week 4
 
-Divide-and-Conquer
+### Introduction
+Intro
+Linear Search
+Binary Search
+Binary Search Runtime
+Resources
+Quiz: Linear Search and Binary Search
 
-- Introduction
-- Polynomial Multiplication
-- Master Theorem
-- Sorting Problem
-- Quick Sort
-- Programming Assignment 3
-- Quiz: Linear Search and Binary Search
+### Polynomial Multiplication
+- Problem Overview and Naïve Solution
+- Naïve Divide and Conquer Algorithm
+- Faster Divide and Conquer Algorithm
+- Resources
 - Quiz: Polynomial Multiplication
+
+### Master Theorem
+- What is the Master Theorem?
+- Proof of the Master Theorem
+- Resources
 - Quiz: Master Theorem
+
+### Sorting Problem
+- Problem Overview
+- Selection Sort
+- Merge Sort
+- Lower Bound for Comparison Based Sorting
+- Non-Comparison Based Sorting Algorithms
+- Resources
 - Quiz: Sorting
+
+### Quick Sort
+- Overview
+- Algorithm
+- Random Pivot
+- Running Time Analysis (optional)
+- Equal Elements
+- Final Remarks
+- Resources
 - Quiz: Quick Sort
+
+### Programming Assignment 3
+
 - Programming Assignment: Programming Assignment 3: Divide and Conquer
 
 ## Week 5
