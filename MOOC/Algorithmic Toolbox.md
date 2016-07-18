@@ -90,8 +90,8 @@
 ## Week 4
 
 ### Introduction
-- Intro
-- Linear Search
+- ~~Intro~~
+- ~~Linear Search~~
 - Binary Search
 - Binary Search Runtime
 - Resources
