@@ -92,8 +92,8 @@
 ### Introduction
 - ~~Intro~~
 - ~~Linear Search~~
-- Binary Search
-- Binary Search Runtime
+- ~~Binary Search~~
+- ~~Binary Search Runtime~~
 - Resources
 - Quiz: Linear Search and Binary Search
 
