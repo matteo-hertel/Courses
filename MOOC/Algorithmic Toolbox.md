@@ -98,8 +98,8 @@
 - ~~Quiz: Linear Search and Binary Search~~
 
 ### Polynomial Multiplication
-- Problem Overview and Naïve Solution
-- Naïve Divide and Conquer Algorithm
+- ~~Problem Overview and Naïve Solution~~
+- ~~Naïve Divide and Conquer Algorithm~~
 - Faster Divide and Conquer Algorithm
 - Resources
 - Quiz: Polynomial Multiplication
