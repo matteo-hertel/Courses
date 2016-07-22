@@ -100,15 +100,15 @@
 ### Polynomial Multiplication
 - ~~Problem Overview and Naïve Solution~~
 - ~~Naïve Divide and Conquer Algorithm~~
-- Faster Divide and Conquer Algorithm
-- Resources
+- ~~Faster Divide and Conquer Algorithm~~
+- ~~Resources~~
 - Quiz: Polynomial Multiplication
 
-### Master Theorem
-- What is the Master Theorem?
-- Proof of the Master Theorem
-- Resources
-- Quiz: Master Theorem
+### ~~Master Theorem~~
+- ~~What is the Master Theorem?~~
+- ~~Proof of the Master Theorem~~
+- ~~Resources~~
+- ~~Quiz: Master Theorem~~
 
 ### Sorting Problem
 - Problem Overview
