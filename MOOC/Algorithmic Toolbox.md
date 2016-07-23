@@ -97,12 +97,12 @@
 - ~~Resources~~
 - ~~Quiz: Linear Search and Binary Search~~
 
-### Polynomial Multiplication
+### ~~Polynomial Multiplication~~
 - ~~Problem Overview and Naïve Solution~~
 - ~~Naïve Divide and Conquer Algorithm~~
 - ~~Faster Divide and Conquer Algorithm~~
 - ~~Resources~~
-- Quiz: Polynomial Multiplication
+- ~~Quiz: Polynomial Multiplication~~
 
 ### ~~Master Theorem~~
 - ~~What is the Master Theorem?~~
@@ -110,24 +110,24 @@
 - ~~Resources~~
 - ~~Quiz: Master Theorem~~
 
-### Sorting Problem
-- Problem Overview
-- Selection Sort
-- Merge Sort
-- Lower Bound for Comparison Based Sorting
-- Non-Comparison Based Sorting Algorithms
-- Resources
-- Quiz: Sorting
+### ~~Sorting Problem~~
+- ~~Problem Overview~~
+- ~~Selection Sort~~
+- ~~Merge Sort~~
+- ~~Lower Bound for Comparison Based Sorting~~
+- ~~Non-Comparison Based Sorting Algorithms~~
+- ~~Resources~~
+- ~~Quiz: Sorting~~
 
-### Quick Sort
-- Overview
-- Algorithm
-- Random Pivot
-- Running Time Analysis (optional)
-- Equal Elements
-- Final Remarks
-- Resources
-- Quiz: Quick Sort
+### ~~Quick Sort~~
+- ~~Overview~~
+- ~~Algorithm~~
+- ~~Random Pivot~~
+- ~~Running Time Analysis (optional)~~
+- ~~Equal Elements~~
+- ~~Final Remarks~~
+- ~~Resources~~
+- ~~Quiz: Quick Sort~~
 
 ### Programming Assignment 3
 
