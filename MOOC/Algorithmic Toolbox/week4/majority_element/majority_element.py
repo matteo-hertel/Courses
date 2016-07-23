@@ -6,7 +6,24 @@ def get_majority_element(a, left, right):
         return -1
     if left + 1 == right:
         return a[left]
-    #write your code here
+
+    sub_left = get_majority_element(a, left, (left + right - 1)//2 + 1)
+    sub_right = get_majority_element(a, (left + right - 1)//2 + 1, right)
+
+    left_count = 0
+    for i in range(left, right):
+        if a[i] == sub_left:
+            left_count += 1
+    if left_count > (right - left) // 2:
+        return sub_left
+
+    right_count = 0
+    for i in range(left, right):
+        if a[i] == sub_right:
+            right_count += 1
+    if right_count > (right - left) // 2:
+        return sub_right
+
     return -1
 
 if __name__ == '__main__':
