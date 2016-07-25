@@ -87,7 +87,7 @@
 
 - ~~Programming Assignment: Programming Assignment 2: Greedy Algorithms~~
 
-## Week 4
+## ~~Week 4~~
 
 ### ~~Introduction~~
 - ~~Intro~~
@@ -131,7 +131,7 @@
 
 ### Programming Assignment 3
 
-- Programming Assignment: Programming Assignment 3: Divide and Conquer
+- ~~Programming Assignment: Programming Assignment 3: Divide and Conquer~~ did not complete the advanced assignments 
 
 ## Week 5
 
