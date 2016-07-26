@@ -137,12 +137,12 @@
 
 ### Change Problem
 
-- Change Problem
-- Quiz: Change Money
-- Resources
+- ~~Change Problem~~
+- ~~Quiz: Change Money~~
+- ~~Resources~~
 
 ###String Comparison
-- The Alignment Game
+- ~~The Alignment Game~~
 - Computing Edit Distance
 - Reconstructing an Optimal Alignment
 - Quiz: Edit Distance
