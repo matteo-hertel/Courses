@@ -135,15 +135,33 @@
 
 ## Week 5
 
-Dynamic Programming
+### Change Problem
 
 - Change Problem
-- String Comparison
-- Knapsack
-- Placing Parentheses
-- Programming Assignment
 - Quiz: Change Money
+- Resources
+
+###String Comparison
+- The Alignment Game
+- Computing Edit Distance
+- Reconstructing an Optimal Alignment
 - Quiz: Edit Distance
+- Resources
+
+###Knapsack
+- Problem Overview
 - Quiz: Knapsack
+- Knapsack with Repetitions
+- Knapsack without Repetitions
+- Final Remarks
+- Resources
+
+###Placing Parentheses
+- Problem Overview
 - Quiz: Maximum Value of an Arithmetic Expression
+- Subproblems
+- Algorithm
+- Reconstructing a Solution
+
+###Programming Assignment
 - Programming Assignment: Programming Assignment 4: Dynamic Programming
