@@ -143,10 +143,10 @@
 
 ###String Comparison
 - ~~The Alignment Game~~
-- Computing Edit Distance
-- Reconstructing an Optimal Alignment
+- ~~Computing Edit Distance~~
+- ~~Reconstructing an Optimal Alignment~~
 - Quiz: Edit Distance
-- Resources
+- ~~Resources~~
 
 ###Knapsack
 - Problem Overview
