@@ -141,20 +141,20 @@
 - ~~Quiz: Change Money~~
 - ~~Resources~~
 
-###String Comparison
+###~~String Comparison~~
 - ~~The Alignment Game~~
 - ~~Computing Edit Distance~~
 - ~~Reconstructing an Optimal Alignment~~
-- Quiz: Edit Distance
+- ~~Quiz: Edit Distance~~
 - ~~Resources~~
 
-###Knapsack
-- Problem Overview
-- Quiz: Knapsack
-- Knapsack with Repetitions
-- Knapsack without Repetitions
-- Final Remarks
-- Resources
+###~~Knapsack~~
+- ~~Problem Overview~~
+- ~~Quiz: Knapsack~~
+- ~~Knapsack with Repetitions~~
+- ~~Knapsack without Repetitions~~
+- ~~Final Remarks~~
+- ~~Resources~~
 
 ###Placing Parentheses
 - Problem Overview
