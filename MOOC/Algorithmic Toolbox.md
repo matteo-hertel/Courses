@@ -157,8 +157,8 @@
 - ~~Resources~~
 
 ###Placing Parentheses
-- Problem Overview
-- Quiz: Maximum Value of an Arithmetic Expression
+- ~~Problem Overview~~
+- ~~Quiz: Maximum Value of an Arithmetic Expression~~
 - Subproblems
 - Algorithm
 - Reconstructing a Solution
