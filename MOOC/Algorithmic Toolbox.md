@@ -156,12 +156,12 @@
 - ~~Final Remarks~~
 - ~~Resources~~
 
-###Placing Parentheses
+###~~Placing Parentheses~~
 - ~~Problem Overview~~
 - ~~Quiz: Maximum Value of an Arithmetic Expression~~
-- Subproblems
-- Algorithm
-- Reconstructing a Solution
+- ~~QSubproblems~~
+- ~~Algorithm~~
+- ~~Reconstructing a Solution~~
 
 ###Programming Assignment
 - Programming Assignment: Programming Assignment 4: Dynamic Programming
