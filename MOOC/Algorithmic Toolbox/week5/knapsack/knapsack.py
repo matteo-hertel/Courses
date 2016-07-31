@@ -5,7 +5,6 @@ def optimal_weight(W, w):
     n = len(w)
     #inialize all the value (0,j)
     #inialize all the value (w,0)
-    #
     optimal_value = [[0 for i in range(n + 1)]  for j in range(W+1)]
 
     for i in range(1,n + 1): 
