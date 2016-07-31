@@ -10,7 +10,7 @@ def optimal_weight(W, w):
     for i in range(1,n + 1): 
       for weight in range(1,W + 1):
         optimal_value[weight][i] = optimal_value[weight][i-1]
-        #nth element weigh
+        #nth element weight
         Wi = w[i-1]
         if Wi <= weight:
           value = optimal_value[weight-Wi][i-1] + Wi
