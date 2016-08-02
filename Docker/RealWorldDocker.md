@@ -1,0 +1,41 @@
+# Real World Docker
+
+
+- Course Introduction
+- About The Author
+- Advantages Of Container-Based Architecture
+- The Emerging Microservices Architectural Pattern
+- How To Access Your Working Files
+- Server Setup, Building and Deploying A Single Application
+- Local-Development Workflow
+- Local-Development With A Database
+- Working With Production Dabases
+- Backing Up And Restoring Database Data
+- Continuous Testing
+- Continuous Deployment From A Master Branch
+- Continuous Deployment For Other Environments
+- Why Services And Microservices Can Work So Well
+- Why Docker Is The Perfect Fit For Microservices
+- 3 Quick Wins Of A Good Microservice
+- The Journey Of Breaking A Monolith Into Microservices
+- The Role Of Service Discovery In Disposable Infrastructure
+- Service Registration With Etcd
+- Service Registration With Consul
+- Creating A Swarm Of Docker Servers
+- Deploying Applications To Your Swarm
+- Adding Tags To Control Container Placement
+- Security Concerns With Docker Swarm
+- Service Discovery Patterns
+- Getting Our Registry Up And Going
+- Service Self-Registration
+- Sidekick Service Registration
+- Automated Container Registration
+- Dynamic Load Balancing
+- Dynamic Load Balancing Code Walkthrough
+- SSL Termination
+- Docker Anti-Patterns
+- Rolling Deployments With Multiple Containers
+- Red-Black Deployments
+- Blue-Green Deployments
+- Multiple-Running-Version Deployments
+- Wrap-Up And Thank You
