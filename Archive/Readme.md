@@ -4,6 +4,9 @@ All the archived material will go in this repository, mostly is a quick and simp
 
 ## Courses
 
+### MOOC
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+
 ### AWS
 
 - [AWS Certified Developer - Associate 2016](https://www.udemy.com/aws-certified-developer-associate)
