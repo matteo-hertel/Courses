@@ -1,4 +1,4 @@
-# Syllabus
+# ~~Syllabus~~
 
 ## ~~Week 1~~
 
@@ -131,9 +131,9 @@
 
 ### Programming Assignment 3
 
-- ~~Programming Assignment: Programming Assignment 3: Divide and Conquer~~ did not complete the advanced assignments 
+- ~~Programming Assignment: Programming Assignment 3: Divide and Conquer~~ did not complete the advanced assignments
 
-## Week 5
+## ~~Week 5~~
 
 ### Change Problem
 
@@ -163,5 +163,5 @@
 - ~~Algorithm~~
 - ~~Reconstructing a Solution~~
 
-###Programming Assignment
-- Programming Assignment: Programming Assignment 4: Dynamic Programming
+###~~Programming Assignment
+- ~~Programming Assignment: Programming Assignment 4: Dynamic Programming~~
