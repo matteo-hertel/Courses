@@ -1,12 +1,11 @@
 # Real World Docker
 
-
-- Course Introduction
-- About The Author
-- Advantages Of Container-Based Architecture
-- The Emerging Microservices Architectural Pattern
-- How To Access Your Working Files
-- Server Setup, Building and Deploying A Single Application
+- ~~Course Introduction~~
+- ~~About The Author~~
+- ~~Advantages Of Container-Based Architecture~~
+- ~~The Emerging Microservices Architectural Pattern~~
+- ~~How To Access Your Working Files~~
+- ~~Server Setup, Building and Deploying A Single Application~~
 - Local-Development Workflow
 - Local-Development With A Database
 - Working With Production Dabases
