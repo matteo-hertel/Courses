@@ -2,12 +2,6 @@
 
 All the material from different courses will go in this repository, mostly is a quick and simple way for me to keep track of what I'm doing
 
-## MOOC
-###CS
-- [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
-
-## Others
-
 ### JS
 
 - [Charting](https://laracasts.com/series/charting-and-you)
