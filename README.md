@@ -35,9 +35,5 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### Frameworks
 
-#### AWS/Lambda
-
-- [Gordon](https://github.com/jorgebastida/gordon)
-
 ## [Tutorials](/Tutorials)
 ## [Archive](/Archive)
