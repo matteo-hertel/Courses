@@ -9,7 +9,7 @@
 - ~~Local-Development Workflow~~
 - ~~Local-Development With A Database~~
 - ~~Working With Production Dabases~~
-- Backing Up And Restoring Database Data
+- ~~Backing Up And Restoring Database Data~~
 - Continuous Testing
 - Continuous Deployment From A Master Branch
 - Continuous Deployment For Other Environments
