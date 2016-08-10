@@ -12,6 +12,7 @@ All the material from different courses will go in this repository, mostly is a 
 ### PHP
 
 - [Symfony Components](https://laracasts.com/series/discover-symfony-components)
+- [SOLID principles]() always goot to refresh the memory!
 
 ### SQL
 
@@ -20,8 +21,6 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### Docker
 - [Real World Docker](/Docker/RealWorldDocker.md)
-
-#### Vim
 
 ### Server
 
