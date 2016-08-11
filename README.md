@@ -12,7 +12,7 @@ All the material from different courses will go in this repository, mostly is a 
 ### PHP
 
 - [Symfony Components](https://laracasts.com/series/discover-symfony-components)
-- [SOLID principles](https://laracasts.com/series/solid-principles-in-php) always goot to refresh the memory!
+- [SOLID principles](/PHP/SolidPrinciples)
 
 ### SQL
 
