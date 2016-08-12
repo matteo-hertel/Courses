@@ -10,7 +10,7 @@
 - ~~Local-Development With A Database~~
 - ~~Working With Production Dabases~~
 - ~~Backing Up And Restoring Database Data~~
-- Continuous Testing
+- ~~Continuous Testing~~
 - Continuous Deployment From A Master Branch
 - Continuous Deployment For Other Environments
 - Why Services And Microservices Can Work So Well
