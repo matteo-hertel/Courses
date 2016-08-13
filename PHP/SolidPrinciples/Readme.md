@@ -18,3 +18,6 @@ Definition: Entities should be open for extension but closed to modification
 A class/function should allow extension in favour of change the class/function itself, perfect use of polymorphism, the ability to have different behaviour while sharing a common interface 
 
 
+## L ##
+
+Name : Liskov Substitution principle
