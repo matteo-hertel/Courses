@@ -21,3 +21,7 @@ A class/function should allow extension in favour of change the class/function i
 ## L ##
 
 Name : Liskov Substitution principle
+
+Definition: Derived classes must be substitutable for their base class
+
+Each sub class or interface implementation should be able to replace every instance of the parent class or interface
