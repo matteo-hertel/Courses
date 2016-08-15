@@ -25,3 +25,11 @@ Name : Liskov Substitution principle
 Definition: Derived classes must be substitutable for their base class
 
 Each sub class or interface implementation should be able to replace every instance of the parent class or interface
+
+## I ##
+
+Name : Interface Segregation principle
+
+Definition: A client should not be forced to implement an interface that it does not use
+
+A class should not be forced to implements interfaces that it will not use 
