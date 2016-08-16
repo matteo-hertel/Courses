@@ -33,3 +33,11 @@ Name : Interface Segregation principle
 Definition: A client should not be forced to implement an interface that it does not use
 
 A class should not be forced to implements interfaces that it will not use 
+
+## D ##
+
+Name : Dependency Inversion principle
+
+Definition: High level module should not depend on low level module, instead they shoul depend on abstraction, low level module should too
+
+Depend on abstraction not concretion, a class should not depend from a specific implementation but should depend from abstraction or contract  
