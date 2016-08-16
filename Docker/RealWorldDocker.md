@@ -11,8 +11,8 @@
 - ~~Working With Production Dabases~~
 - ~~Backing Up And Restoring Database Data~~
 - ~~Continuous Testing~~
-- Continuous Deployment From A Master Branch
-- Continuous Deployment For Other Environments
+- ~~Continuous Deployment From A Master Branch~~
+- ~~Continuous Deployment For Other Environments~~
 - Why Services And Microservices Can Work So Well
 - Why Docker Is The Perfect Fit For Microservices
 - 3 Quick Wins Of A Good Microservice
