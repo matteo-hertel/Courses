@@ -14,7 +14,7 @@
 - ~~Continuous Deployment From A Master Branch~~
 - ~~Continuous Deployment For Other Environments~~
 - ~~Why Services And Microservices Can Work So Well~~
-- Why Docker Is The Perfect Fit For Microservices
+- ~~Why Docker Is The Perfect Fit For Microservices~~
 - 3 Quick Wins Of A Good Microservice
 - The Journey Of Breaking A Monolith Into Microservices
 - The Role Of Service Discovery In Disposable Infrastructure
