@@ -15,12 +15,12 @@
 - ~~Continuous Deployment For Other Environments~~
 - ~~Why Services And Microservices Can Work So Well~~
 - ~~Why Docker Is The Perfect Fit For Microservices~~
-- 3 Quick Wins Of A Good Microservice
-- The Journey Of Breaking A Monolith Into Microservices
-- The Role Of Service Discovery In Disposable Infrastructure
-- Service Registration With Etcd
-- Service Registration With Consul
-- Creating A Swarm Of Docker Servers
+- ~~3 Quick Wins Of A Good Microservice~~
+- ~~The Journey Of Breaking A Monolith Into Microservices~~
+- ~~The Role Of Service Discovery In Disposable Infrastructure~~
+- ~~Service Registration With Etcd~~
+- ~~Service Registration With Consul~~
+- ~~Creating A Swarm Of Docker Servers~~
 - Deploying Applications To Your Swarm
 - Adding Tags To Control Container Placement
 - Security Concerns With Docker Swarm
