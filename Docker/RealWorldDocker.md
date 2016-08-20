@@ -21,7 +21,7 @@
 - ~~Service Registration With Etcd~~
 - ~~Service Registration With Consul~~
 - ~~Creating A Swarm Of Docker Servers~~
-- Deploying Applications To Your Swarm
+- ~~Deploying Applications To Your Swarm~~
 - Adding Tags To Control Container Placement
 - Security Concerns With Docker Swarm
 - Service Discovery Patterns
