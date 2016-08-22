@@ -22,8 +22,8 @@
 - ~~Service Registration With Consul~~
 - ~~Creating A Swarm Of Docker Servers~~
 - ~~Deploying Applications To Your Swarm~~
-- Adding Tags To Control Container Placement
-- Security Concerns With Docker Swarm
+- ~~Adding Tags To Control Container Placement~~
+- ~~Security Concerns With Docker Swarm~~
 - Service Discovery Patterns
 - Getting Our Registry Up And Going
 - Service Self-Registration
