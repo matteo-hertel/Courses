@@ -24,8 +24,8 @@
 - ~~Deploying Applications To Your Swarm~~
 - ~~Adding Tags To Control Container Placement~~
 - ~~Security Concerns With Docker Swarm~~
-- ~~Service Discovery Patterns~~
-- ~~Getting Our Registry Up And Going~~
+- Service Discovery Patterns
+- Getting Our Registry Up And Going
 - Service Self-Registration
 - Sidekick Service Registration
 - Automated Container Registration
