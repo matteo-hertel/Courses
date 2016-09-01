@@ -1,13 +1,12 @@
 <?php
-/**
- *  Up to 07:04
- * https://laracasts.com/series/discover-symfony-components/episodes/4
- */
 require __DIR__ . "/vendor/autoload.php";
 
 use Symfony\Component\EventDispatcher\Event;
 use Symfony\Component\EventDispatcher\EventDispatcher;
-
+use App\Events;
+echo"<pre style='color:#59E817; background-color:black; word-wrap:break-word;'>";
+var_dump(class_exists("App\Events\UserSignedUp"));
+echo"</pre>";
 $dispatcher = new EventDispatcher();
 
 $dispatcher->addListener("UserSignedUp", function(Event $event){
@@ -20,17 +19,6 @@ $dispatcher->addListener("UserSignedUp", function(Event $event){
     var_dump("send followup email", $event->user);
     echo"</pre>";
 });
-/**
- * ``UserSignedUp
- */
-class UserSignedUp extends Event
-{
-public $user;
 
-    function __construct($user)
-    {
-        $this->user = $user;
-    }
-}
 $event = new UserSignedUp((object)["name" => "Jonnho"]);
 $dispatcher->dispatch("UserSignedUp", $event);
