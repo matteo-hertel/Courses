@@ -4,8 +4,6 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### JS
 
-- [Charting](https://laracasts.com/series/charting-and-you)
-- [Building a React Universal Blog App](http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
 - [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 - [JavaScript Design Patterns](https://www.udacity.com/course/viewer#!/c-ud989/l-3417188540/m-3374098584)
 
