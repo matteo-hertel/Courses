@@ -2,7 +2,7 @@
 
 - Arrow Function in ES6*
 - The let keyword in ES6*
-- Default Values for Function Parameters in ES6
+- Default Values for Function Parameters in ES6*
 - const Declarations in es6  
 - Shorthand Properties in ES6
 - Object Enhancements in ES6
