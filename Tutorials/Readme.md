@@ -8,3 +8,5 @@
 ## Docker
 - ~~[Saving Command History](https://shippingdocker.com/blog/saving-command-history)~~
 
+## Learning Platforms
+- [EggHead.io](./Egghead/Readme.md)
