@@ -1,0 +1,17 @@
+{
+    "name": "test-javascript-with-jest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watch"
+    },
+    "author": "Matteo Hertel",
+    "license": "MIT",
+    "devDependencies": {
+        "jest-cli": "^15.1.1"
+    },
+    "jest": {
+        "testEnvironment": "node"
+    }
+}
