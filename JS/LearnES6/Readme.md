@@ -4,7 +4,7 @@
 - The let keyword in ES6*
 - Default Values for Function Parameters in ES6*
 - const Declarations in es6*
-- Shorthand Properties in ES6
+- Shorthand Properties in ES6*
 - Object Enhancements in ES6
 - Using the ES6 spread operator
 - String Templates in ES6 
