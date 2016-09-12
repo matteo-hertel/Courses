@@ -9,7 +9,7 @@
 - Using the ES6 spread operator*
 - String Templates in ES6*
 - Destructuring Assignment in ES6*
-- ES6 Modules Import and Export
+- ES6 Modules Import and Export*
 - Converting an array-like object into an Array with Array from
 - Promises with ES6
 - ES6 Generators
