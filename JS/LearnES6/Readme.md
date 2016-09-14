@@ -11,7 +11,7 @@
 - Destructuring Assignment in ES6*
 - ES6 Modules Import and Export*
 - Converting an array-like object into an Array with Array from*
-- Promises with ES6
+- Promises with ES6*
 - ES6 Generators
 - Maps and WeakMaps with ES6
 - ES6 Rest Parameters
