@@ -13,7 +13,7 @@
 - Converting an array-like object into an Array with Array from*
 - Promises with ES6*
 - ES6 Generators*
-- Maps and WeakMaps with ES6
+- Maps and WeakMaps with ES6*
 - ES6 Rest Parameters
 
 *folder created
