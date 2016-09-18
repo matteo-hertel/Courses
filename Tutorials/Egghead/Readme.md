@@ -6,3 +6,6 @@
 - [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
 - [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
 - [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
+
+### Angular2
+-[Create an Angular 2 Hello World Component](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component)
