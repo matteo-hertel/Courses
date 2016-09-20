@@ -5,6 +5,7 @@ import { WidgetThree } from "./../widgets/widget-three.component";
     selector: "home2",
     template: `
 <button (click)="moveComponentToRandomIndex()">Move Component</button>
+<button (click)="deleteComponent()">Delete Component</button>
 <div #container></div>
 `
 })
@@ -42,5 +43,8 @@ export class HomeComponent2 {
         let randomIndex = Math.floor(Math.random() * this.container.length)
         this.container.move(this.widgetRef.hostView, randomIndex);
         this.widgetRef.instance.message = `I'm position #${randomIndex + 1}!`;
+    }
+    deleteComponent() {
+        this.container.detach(2);
     }
 }
