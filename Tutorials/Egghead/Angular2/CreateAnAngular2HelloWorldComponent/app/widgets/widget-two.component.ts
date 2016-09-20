@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
     selector: "widget-two",
     template: `
 <button (click)="toggleSelected()">Toggle Widget Two</button>
-<div *ngIf="selected">Two</div>
+<div *ngIf="selected"><ng-content></ng-content></div>
 `
 })
 export class WidgetTwo {
