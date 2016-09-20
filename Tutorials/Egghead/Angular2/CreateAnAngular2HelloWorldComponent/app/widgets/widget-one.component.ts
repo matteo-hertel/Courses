@@ -1,15 +1,12 @@
-import { Component } from "@angular/core";
+import { Component, Input } from "@angular/core";
 
 @Component({
     selector: "widget-one",
     template: `
-<button (click)="toggleSelected()">Toggle Widget One</button>
-<div *ngIf="selected">One</div>
+<h2>One's message:</h2>
+<h3>{{message}}</h3>
 `
 })
 export class WidgetOne {
-    selected = true;
-    toggleSelected() {
-        this.selected = !this.selected;
-    }
+    @Input() message: string;
 }
