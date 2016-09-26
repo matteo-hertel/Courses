@@ -15,3 +15,4 @@
 - :white_check_mark: [Angular 2 Dependency Injection (DI) Explained](https://egghead.io/courses/angular-2-dependency-injection-di-explained)
 - [Pick Up Angular 2 in 6 Minutes](https://egghead.io/lessons/angular-2-pick-up-angular-2-in-6-minutes)
 - [Build an Angular 2 Instant Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
+- [Learn the Basics of Angular 2 Forms](https://egghead.io/courses/intro-to-angular-2-forms)
