@@ -5,7 +5,7 @@ import { MessagesInterface } from "./interface/Messages.interface.ts";
     styles: [
         `
 .completed{
-text-decotation: line-through
+text-decoration: line-through;
 }
 `
     ],
@@ -13,9 +13,9 @@ text-decotation: line-through
 <input type="text" [(ngModel)]="message" (keyup.ENTER)="onSubmit()" />
 {{message}}
 <ul>
-<li *ngFor="let m of messages" [ngClass]="{
-'completed':m.completed
-}">{{m.message}}</li>
+<li *ngFor="let m of messages"
+[ngClass]='{"completed" : m.completed}'
+(click)="toggleMessage(m)">{{m.message}}</li>
 </ul>
 </div>`
 })
@@ -25,8 +25,11 @@ export class AppComponent {
     onSubmit() {
         this.messages.push({
             message: this.message,
-            completed: true
+            completed: false
         });
         this.message = "";
+    }
+    toggleMessage(m) {
+        m.completed = !m.completed;
     }
 }
