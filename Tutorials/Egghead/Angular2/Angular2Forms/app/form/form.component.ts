@@ -24,6 +24,10 @@ required
 <label [attr.for]="location">{{location}}</label>
 
 </div>
+
+<select [ngModel]="locations[0]" name="location">
+<option *ngFor="let location of locations" [value]="location">{{location}}</option>
+</select>
 </form>
 {{formRef.value | json}}
 
