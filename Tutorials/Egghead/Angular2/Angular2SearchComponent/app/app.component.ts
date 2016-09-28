@@ -2,6 +2,21 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'my-app',
+    styles:[
+`
+input{
+display: block;
+margin: 5px;
+
+}
+input.ng-invalid {
+    border: 3px solid red;
+}
+input.ng-valid input{
+    border: 3px solid green;
+}
+`
+],
     template: `
 <form #formRef="ngForm" (ngSubmit)="onSubmit(formRef.value)">
     <fieldset ngModelGroup="login">
