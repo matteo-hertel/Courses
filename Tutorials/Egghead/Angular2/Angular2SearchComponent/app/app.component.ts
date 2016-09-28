@@ -1,9 +1,13 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
+
+import { Observable } from "rxjs/Observable"
+import "rxjs/add/observable/combineLatest";
+import "rxjs/add/operator/filter";
 
 @Component({
     selector: 'my-app',
-    styles:[
-`
+    styles: [
+        `
 input{
 display: block;
 margin: 5px;
@@ -16,7 +20,7 @@ input.ng-valid input{
     border: 3px solid green;
 }
 `
-],
+    ],
     template: `
 <form #formRef="ngForm" (ngSubmit)="onSubmit(formRef.value)">
     <fieldset ngModelGroup="login">
@@ -53,8 +57,31 @@ input.ng-valid input{
 `
 })
 export class AppComponent {
+
+    @ViewChild("formRef") form: any;
+
     private username: string = "Papoi";
-    onSubmit(formValue:any) {
+
+    onSubmit(formValue: any) {
         console.log(formValue);
+    }
+    /**
+     * Without RsJX
+     */
+    // ngAfterViewInit() {
+    //     this.form.valueChanges.subscribe((v:any) => console.table(v));
+    //     this.form.statusChanges.subscribe((v:any) => console.log(v));
+    // }
+    /**
+     * With RsJX
+     */
+    ngAfterViewInit() {
+        Observable.combineLatest(
+            this.form.statusChanges,
+            this.form.valueChanges,
+            (status, value) => ({ status, value })
+        )
+            .filter(({ status }) => status === "VALID")
+            .subscribe(({ value }) => console.table(value));
     }
 }
