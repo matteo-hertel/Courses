@@ -33,6 +33,17 @@ input.ng-valid input{
             This field must be longer than {{usernameRef.errors?.minlength.requiredLength}} characters.
             You only typed <b>{{usernameRef.errors?.minlength.actualLength}}</b> carachter(s).
         </div>
+
+        <pre>
+            untouched: {{usernameRef.untouched}}
+            <br>
+            touched: {{usernameRef.touched}}
+            <br>
+            pristine : {{usernameRef.pristine}}
+            <br>
+            dirty : {{usernameRef.dirty}}
+        </pre>
+
         <input type="password" ngModel name="password">
     </fieldset>
     <button type="submit">Submit</button>
