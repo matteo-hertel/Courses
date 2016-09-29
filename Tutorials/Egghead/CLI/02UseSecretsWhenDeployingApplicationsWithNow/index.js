@@ -10,3 +10,11 @@ app.get("/", function(req, res) {
 app.listen(3000, function() {
     console.log("Exaple app listening on port 3000");
 });
+
+/**
+to create secrets:
+now secrets add super-secret-message "Mr. Bond"
+
+to use secrets:
+now -e HELLO=@super-secret-message
+*/
