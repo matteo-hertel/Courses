@@ -7,7 +7,6 @@
 - :white_check_mark: [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
 - :white_check_mark: [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
 - :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
-- [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
 
 ## Angular2
 
@@ -16,3 +15,8 @@
 - :white_check_mark: [Pick Up Angular 2 in 6 Minutes](https://egghead.io/lessons/angular-2-pick-up-angular-2-in-6-minutes)
 - [Build an Angular 2 Instant Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
 - [Learn the Basics of Angular 2 Forms](https://egghead.io/courses/intro-to-angular-2-forms)
+
+## CLI
+
+- :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
+- [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
