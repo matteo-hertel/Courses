@@ -7,7 +7,7 @@
 - :white_check_mark: [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
 - :white_check_mark: [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
 - :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
-- [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
+- :white_check_mark: [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
 
 ## Angular2
 
