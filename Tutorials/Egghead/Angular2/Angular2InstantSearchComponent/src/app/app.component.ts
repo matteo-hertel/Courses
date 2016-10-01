@@ -4,7 +4,7 @@ import { Subject } from "rxjs/Subject";
 import "rxjs/add/operator/map";
 import "rxjs/add/operator/debounceTime";
 import "rxjs/add/operator/distinctUntilChanged";
-
+import "rxjs/add/operator/mergeMap";
 @Component({
     // moduleId: module.id,
     selector: 'app-root',
@@ -18,15 +18,10 @@ export class AppComponent {
 
     constructor(private service: WikipediaSearchService) { }
 
-    search(term: string) {
-        this.service
-            .search(term)
-            .subscribe(results => this.items = results);
-    }
-
     ngOnInit() {
         this.term$
             .debounceTime(400)
-            .subscribe(term => this.search(term));
+            .flatMap(term => this.service.search(term))
+            .subscribe(results => this.items = results);
     }
 }
