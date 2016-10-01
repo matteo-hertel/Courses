@@ -1,12 +1,19 @@
 // #docregion
 import { Injectable } from '@angular/core';
 import { Jsonp, URLSearchParams } from '@angular/http';
+import { Observable } from "rxjs/Observable";
 
 @Injectable()
 export class WikipediaSearchService {
     constructor(private jsonp: Jsonp) { }
 
-    search(term: string) {
+    search(terms: Observable<string>, debounceMs:number = 400){
+        return terms.debounceTime(debounceMs)
+        .distinctUntilChanged()
+        .switchMap(term => this.rawsearch(term));
+    }
+
+    rawsearch(term: string) {
 
         let wikiUrl = 'http://en.wikipedia.org/w/api.php';
 

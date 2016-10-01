@@ -20,10 +20,8 @@ export class AppComponent {
     constructor(private service: WikipediaSearchService) { }
 
     ngOnInit() {
-        this.term$
-            .debounceTime(400)
-            .distinctUntilChanged()
-            .switchMap(term => this.service.search(term))
+        this.service
+            .search(this.term$)
             .subscribe(results => this.items = results);
     }
 }
