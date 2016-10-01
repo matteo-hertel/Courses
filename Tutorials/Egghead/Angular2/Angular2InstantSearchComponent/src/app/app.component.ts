@@ -21,6 +21,7 @@ export class AppComponent {
     ngOnInit() {
         this.term$
             .debounceTime(400)
+            .distinctUntilChanged()
             .flatMap(term => this.service.search(term))
             .subscribe(results => this.items = results);
     }
