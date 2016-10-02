@@ -21,3 +21,7 @@
 
 - :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
 - :white_check_mark: [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+
+## TypeScript
+
+- [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
