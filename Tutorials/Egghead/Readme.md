@@ -24,4 +24,4 @@
 
 ## TypeScript
 
-- [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
+- :white_check_mark: [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
