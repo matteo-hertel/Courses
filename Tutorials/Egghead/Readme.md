@@ -9,6 +9,8 @@
 - :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
 - :white_check_mark: [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
 
+- [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
+
 ## Angular2
 
 - :white_check_mark: [Create an Angular 2 Hello World Component](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component)
