@@ -3,7 +3,7 @@
 /* global fetch */
 'use strict';
 
-const user = "matteo-hertel";
+const user = "papoi";
 const url = `https://api.github.com/users/${user}`;
 
 fetch(url)
