@@ -23,7 +23,7 @@
 
 - :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
 - :white_check_mark: [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
-- [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
+- :white_check_mark: [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
 
 ## TypeScript
 
