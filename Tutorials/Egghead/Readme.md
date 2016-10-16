@@ -28,3 +28,6 @@
 ## TypeScript
 
 - :white_check_mark: [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
+
+## Math
+- [Dot Product in JavaScript](https://egghead.io/lessons/javascript-dot-product-in-javascript)
