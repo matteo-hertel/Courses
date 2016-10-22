@@ -20,9 +20,15 @@
 - :white_check_mark: [Learn the Basics of Angular 2 Forms](https://egghead.io/courses/intro-to-angular-2-forms)
 - [Share Template Content In Another Template With Content Projection](https://egghead.io/lessons/angular-2-share-template-content-in-another-template-with-content-projection)
 
-## CLI
+## Vue.js
+
+- [Create a Basic Component using Vue.js](https://egghead.io/lessons/javascript-create-a-basic-component-using-vue-js)
+- [Create a List Component in Vue.js](https://egghead.io/lessons/javascript-create-a-list-component-in-vue-js)
+
+  ## CLI
 
 - :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
+
 - :white_check_mark: [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
 - :white_check_mark: [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
 
@@ -31,4 +37,5 @@
 - :white_check_mark: [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
 
 ## Math
+
 - :white_check_mark: [Dot Product in JavaScript](https://egghead.io/lessons/javascript-dot-product-in-javascript)
