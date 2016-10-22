@@ -8,7 +8,6 @@
 - :white_check_mark: [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
 - :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
 - :white_check_mark: [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
-
 - :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
 
 ## Angular2
@@ -25,11 +24,19 @@
 - [Create a Basic Component using Vue.js](https://egghead.io/lessons/javascript-create-a-basic-component-using-vue-js)
 - [Create a List Component in Vue.js](https://egghead.io/lessons/javascript-create-a-list-component-in-vue-js)
 
-  ## CLI
+## Elm
+
+- [Installing and setting up Elm](https://egghead.io/lessons/elm-installing-and-setting-up-elm)
+- [Functions in Elm](https://egghead.io/lessons/elm-functions-in-elm)
+- [List in Elm](https://egghead.io/lessons/elm-list-in-elm)
+- [Records in Elm](https://egghead.io/lessons/elm-records-in-elm)
+
+## CLI
 
 - :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
 
 - :white_check_mark: [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+
 - :white_check_mark: [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
 
 ## TypeScript
