@@ -1,0 +1,6 @@
+<div (click)="toggle()">
+    <ng-content select=".header"></ng-content>
+</div>
+<div *ngIf="visible">
+    <ng-content select=".body"></ng-content>
+</div>
