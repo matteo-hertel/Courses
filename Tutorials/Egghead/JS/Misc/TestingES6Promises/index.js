@@ -1,5 +1,3 @@
-/* jshint esversion : 6 */
-/* jshint node : true */
 exports.foo = (opts) => {
     return new Promise((resolve, reject) => {
         if (opts === 1) {
