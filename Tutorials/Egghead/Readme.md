@@ -9,6 +9,7 @@
 - :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
 - :white_check_mark: [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
 - :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
+- [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 
 ## Angular2
 
