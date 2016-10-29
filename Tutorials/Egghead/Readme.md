@@ -19,6 +19,7 @@
 - :white_check_mark:[Build an Angular 2 Instant Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
 - :white_check_mark: [Learn the Basics of Angular 2 Forms](https://egghead.io/courses/intro-to-angular-2-forms)
 - :white_check_mark: [Share Template Content In Another Template With Content Projection](https://egghead.io/lessons/angular-2-share-template-content-in-another-template-with-content-projection)
+- [Animate Angular 2 Web Applications](https://egghead.io/courses/animate-angular-2-web-applications)
 
 ## Vue.js
 
