@@ -15,3 +15,4 @@
 - [EggHead.io](./Egghead/Readme.md)
 - [Stackskills](./Stackskills/Readme.md)
 - [Sitepoint](./Sitepoint/Readme.md)
+- [Laracasts](./Laracasts/Readme.md)
