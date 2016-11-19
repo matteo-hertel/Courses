@@ -28,11 +28,11 @@
 
 ## Elm
 
-- [Installing and setting up Elm](https://egghead.io/lessons/elm-installing-and-setting-up-elm)
-- [Functions in Elm](https://egghead.io/lessons/elm-functions-in-elm)
-- [List in Elm](https://egghead.io/lessons/elm-list-in-elm)
-- [Records in Elm](https://egghead.io/lessons/elm-records-in-elm)
-
+- [] [Installing and setting up Elm](https://egghead.io/lessons/elm-installing-and-setting-up-elm)
+- [] [Functions in Elm](https://egghead.io/lessons/elm-functions-in-elm)
+- [] [List in Elm](https://egghead.io/lessons/elm-list-in-elm)
+- [] [Records in Elm](https://egghead.io/lessons/elm-records-in-elm)
+- [] [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 ## CLI
 
 - [x] [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
