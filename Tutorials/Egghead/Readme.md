@@ -13,6 +13,7 @@
 
 ## Node
 - [] [Install nodejs-dashboard](https://egghead.io/lessons/node-js-install-nodejs-dashboard)
+- [] [Use Realm Object Database with Node.js](https://egghead.io/lessons/node-js-use-realm-object-database-with-node-js)
 
 ## Angular2
 
