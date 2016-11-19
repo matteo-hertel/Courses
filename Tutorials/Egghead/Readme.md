@@ -11,6 +11,9 @@
 - :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
 - :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 
+## Node
+- [] [Install nodejs-dashboard](https://egghead.io/lessons/node-js-install-nodejs-dashboard)
+
 ## Angular2
 
 - :white_check_mark: [Create an Angular 2 Hello World Component](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component)
