@@ -35,11 +35,12 @@
 
 ## CLI
 
-- :white_check_mark: [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
-
-- :white_check_mark: [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
-
-- :white_check_mark: [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
+- [x] [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
+- [x] [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+- [x] [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
+- [] [Deploy a Docker project with Zeit’s Now](https://egghead.io/lessons/tools-deploy-a-docker-project-with-zeit-s-now)
+- [] [Configure secrets and environment variables with Zeit’s Now](https://egghead.io/lessons/tools-configure-secrets-and-environment-variables-with-zeit-s-now)
+- [] [View source on your remote server with Zeit’s now](https://egghead.io/lessons/tools-view-source-on-your-remote-server-with-zeit-s-now)
 
 ## TypeScript
 
