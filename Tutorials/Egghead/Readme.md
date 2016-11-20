@@ -11,6 +11,7 @@
 - [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
 - [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 - [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
+- [] [Build Interactive JavaScript Charts with D3 v4](https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4)
 
 ## Node
 - [] [Install nodejs-dashboard](https://egghead.io/lessons/node-js-install-nodejs-dashboard)
