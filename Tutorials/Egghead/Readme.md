@@ -2,14 +2,15 @@
 
 ## JS
 
-- :white_check_mark: [Test JavaScript with Jest](https://egghead.io/lessons/javascript-test-javascript-with-jest)
-- :white_check_mark: [Add Babel Integration with Jest](https://egghead.io/lessons/javascript-add-babel-integration-with-jest)
-- :white_check_mark: [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
-- :white_check_mark: [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
-- :white_check_mark: [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
-- :white_check_mark: [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
-- :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
-- :white_check_mark: [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
+- [x] [Test JavaScript with Jest](https://egghead.io/lessons/javascript-test-javascript-with-jest)
+- [x] [Add Babel Integration with Jest](https://egghead.io/lessons/javascript-add-babel-integration-with-jest)
+- [x] [Track project code coverage with Jest](https://egghead.io/lessons/javascript-track-project-code-coverage-with-jest)
+- [x] [Use Jest's Interactive Watch Mode](https://egghead.io/lessons/javascript-use-jest-s-interactive-watch-mode)
+- [x] [Use Jest's Snapshot Testing Feature](https://egghead.io/lessons/javascript-use-jest-s-snapshot-testing-feature)
+- [x] [Safer property access with Lodash's 'get' method](https://egghead.io/lessons/javascript-safer-property-access-with-lodash-s-get-method)
+- [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/javascript-get-json-data-from-an-api-using-fetch)
+- [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
+- [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 
 ## Node
 - [] [Install nodejs-dashboard](https://egghead.io/lessons/node-js-install-nodejs-dashboard)
