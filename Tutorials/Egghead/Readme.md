@@ -47,6 +47,8 @@
 - [] [Deploy a Docker project with Zeit’s Now](https://egghead.io/lessons/tools-deploy-a-docker-project-with-zeit-s-now)
 - [] [Configure secrets and environment variables with Zeit’s Now](https://egghead.io/lessons/tools-configure-secrets-and-environment-variables-with-zeit-s-now)
 - [] [View source on your remote server with Zeit’s now](https://egghead.io/lessons/tools-view-source-on-your-remote-server-with-zeit-s-now)
+- [] [Deploy static assets with Zeit’s Now](https://egghead.io/lessons/tools-deploy-static-assets-with-zeit-s-now)
+- [] [Use a custom domain name with Zeit’s Now](https://egghead.io/lessons/tools-use-a-custom-domain-name-with-zeit-s-now)
 
 ## TypeScript
 
