@@ -49,6 +49,7 @@
 - [] [View source on your remote server with Zeit’s now](https://egghead.io/lessons/tools-view-source-on-your-remote-server-with-zeit-s-now)
 - [] [Deploy static assets with Zeit’s Now](https://egghead.io/lessons/tools-deploy-static-assets-with-zeit-s-now)
 - [] [Use a custom domain name with Zeit’s Now](https://egghead.io/lessons/tools-use-a-custom-domain-name-with-zeit-s-now)
+- [] [Update an application hosted with Zeit’s Now](https://egghead.io/lessons/tools-update-an-application-hosted-with-zeit-s-now)
 
 ## TypeScript
 
