@@ -50,6 +50,7 @@
 - [] [Deploy static assets with Zeit’s Now](https://egghead.io/lessons/tools-deploy-static-assets-with-zeit-s-now)
 - [] [Use a custom domain name with Zeit’s Now](https://egghead.io/lessons/tools-use-a-custom-domain-name-with-zeit-s-now)
 - [] [Update an application hosted with Zeit’s Now](https://egghead.io/lessons/tools-update-an-application-hosted-with-zeit-s-now)
+- [] [Use a hosted database with Zeit’s Now](https://egghead.io/lessons/tools-use-a-hosted-database-with-zeit-s-now)
 
 ## TypeScript
 
