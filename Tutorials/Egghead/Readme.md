@@ -50,6 +50,3 @@
 ## Math
 
 - [x] [Dot Product in JavaScript](https://egghead.io/lessons/javascript-dot-product-in-javascript)
-
-## Teaching
-- [Record Badass Screencasts for egghead.io](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
