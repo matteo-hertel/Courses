@@ -12,6 +12,7 @@
 - [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 - [x] [Get JSON data from an API using fetch](https://egghead.io/lessons/node-js-testing-es6-promises-in-node-js-using-mocha-and-chai)
 
+## Angular2
 
 - [x] [Create an Angular 2 Hello World Component](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component)
 - [x] [Angular 2 Dependency Injection (DI) Explained](https://egghead.io/courses/angular-2-dependency-injection-di-explained)
