@@ -10,12 +10,6 @@
 
 ## Angular2
 
-- [x] [Create an Angular 2 Hello World Component](https://egghead.io/lessons/angular-2-create-an-angular-2-hello-world-component)
-- [x] [Angular 2 Dependency Injection (DI) Explained](https://egghead.io/courses/angular-2-dependency-injection-di-explained)
-- [x] [Pick Up Angular 2 in 6 Minutes](https://egghead.io/lessons/angular-2-pick-up-angular-2-in-6-minutes)
-- [x] [Build an Angular 2 Instant Search Component](https://egghead.io/courses/build-an-angular-2-instant-search-component)
-- [x] [Learn the Basics of Angular 2 Forms](https://egghead.io/courses/intro-to-angular-2-forms)
-- [x] [Share Template Content In Another Template With Content Projection](https://egghead.io/lessons/angular-2-share-template-content-in-another-template-with-content-projection)
 - [Animate Angular 2 Web Applications](https://egghead.io/courses/animate-angular-2-web-applications)
 
 ## Vue.js
