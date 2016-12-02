@@ -12,11 +12,6 @@
 
 - [] [Animate Angular 2 Web Applications](https://egghead.io/courses/animate-angular-2-web-applications)
 
-## Vue.js
-
-- [Create a Basic Component using Vue.js](https://egghead.io/lessons/javascript-create-a-basic-component-using-vue-js)
-- [Create a List Component in Vue.js](https://egghead.io/lessons/javascript-create-a-list-component-in-vue-js)
-
 ## Elm
 
 - [] [Installing and setting up Elm](https://egghead.io/lessons/elm-installing-and-setting-up-elm)
