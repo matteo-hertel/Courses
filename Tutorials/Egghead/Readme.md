@@ -10,7 +10,7 @@
 
 ## Angular2
 
-- [Animate Angular 2 Web Applications](https://egghead.io/courses/animate-angular-2-web-applications)
+- [] [Animate Angular 2 Web Applications](https://egghead.io/courses/animate-angular-2-web-applications)
 
 ## Vue.js
 
