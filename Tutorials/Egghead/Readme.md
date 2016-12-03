@@ -35,7 +35,3 @@
 ## TypeScript
 
 - [x] [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
-
-## Math
-
-- [x] [Dot Product in JavaScript](https://egghead.io/lessons/javascript-dot-product-in-javascript)
