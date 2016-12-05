@@ -28,3 +28,8 @@
 ## TypeScript
 
 - [x] [Use Types Effectively in TypeScript](https://egghead.io/lessons/typescript-introduction-to-static-typing)
+
+## CLI
+- [x] [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
+- [x] [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+- [x] [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)

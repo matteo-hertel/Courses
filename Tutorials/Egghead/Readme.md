@@ -21,9 +21,6 @@
 - [] [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 ## CLI
 
-- [x] [Deploy a Node Application with the Now CLI](https://egghead.io/lessons/node-js-deploy-a-node-application-with-the-now-cli)
-- [x] [Use Secrets When Deploying Applications with Now](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
-- [x] [Use Now alias for custom sub-domains](https://egghead.io/lessons/node-js-use-now-alias-for-custom-sub-domains)
 - [] [Deploy a Docker project with Zeit’s Now](https://egghead.io/lessons/tools-deploy-a-docker-project-with-zeit-s-now)
 - [] [Configure secrets and environment variables with Zeit’s Now](https://egghead.io/lessons/tools-configure-secrets-and-environment-variables-with-zeit-s-now)
 - [] [View source on your remote server with Zeit’s now](https://egghead.io/lessons/tools-view-source-on-your-remote-server-with-zeit-s-now)
