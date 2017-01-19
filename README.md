@@ -4,7 +4,7 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### JS
 
-- [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+
 - [JavaScript Design Patterns](https://www.udacity.com/course/viewer#!/c-ud989/l-3417188540/m-3374098584)
 
 ### PHP
