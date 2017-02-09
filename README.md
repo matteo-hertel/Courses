@@ -4,7 +4,6 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### PHP
 
-- [Symfony Components](https://laracasts.com/series/discover-symfony-components)
 - [SOLID principles](/PHP/SolidPrinciples)
 
 ### SQL
