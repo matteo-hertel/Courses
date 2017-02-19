@@ -4,7 +4,7 @@ All the material from different courses will go in this repository, mostly is a 
 
 ### PHP
 
-- [SOLID principles](/PHP/SolidPrinciples)
+
 
 ### SQL
 
@@ -28,3 +28,8 @@ All the material from different courses will go in this repository, mostly is a 
 
 ## [Tutorials](/Tutorials)
 ## [Archive](/Archive)
+
+
+## References
+
+- [SOLID principles](/PHP/SolidPrinciples)
