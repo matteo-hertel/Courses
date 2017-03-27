@@ -3,7 +3,6 @@
 All the material from different courses will go in this repository, mostly is a quick and simple way for me to keep track of what I'm doing
 
 ### Docker
-- [Real World Docker](/Docker/RealWorldDocker.md)
 
 ### Server
 
