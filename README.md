@@ -4,7 +4,6 @@ All the material from different courses will go in this repository, mostly is a 
 
 #### Management
 
-- [Server Management With Forge](https://laracasts.com/series/server-management-with-forge)
 
 ### Testing
 ####TDD
