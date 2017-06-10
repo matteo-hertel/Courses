@@ -9,4 +9,4 @@ All the material from different courses will go in this repository, it's a quick
 
 ### PHP
 
-- [SOLID principles](/PHP/SolidPrinciples)
+- [SOLID principles](/References/PHP/SolidPrinciples)
